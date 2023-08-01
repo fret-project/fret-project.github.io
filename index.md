@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # target websites
 | Web app type | Web name | URL |
-| --- | --- | --- |
+|:-------------|:------------------|:------|
 |Accommodation	|Agoda	|agoda.cn|
 |Advertising	|Doubleclick	|marketingplatform.google.com|
 |Airlines	|Ryanair	|ryanair.com|
