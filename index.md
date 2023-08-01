@@ -13,40 +13,41 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # target websites
-| Web app type | Web name | URL |
-|:-------------|:------------------|:------|
-|Accommodation	|Agoda	|agoda.cn|
-|Advertising	|Doubleclick	|marketingplatform.google.com|
-|Airlines	|Ryanair	|ryanair.com|
-|Banking	|Chase	|chase.com|
-|Beauty	|Sephora	|sephora.com|
-|Computer software	|Openai	|openai.com|
-|Distance learning	|Stackoverflow	|stackoverflow.com|
-|E-commerce	|Onliner	|online.by|
-|Eduction	|Youtube	|youtube.com|
-|Entertainment	|Archive of our own	|archiveofourown.org|
-|Fashion	|Shein	|shein.com|
-|Finance	|Paypal	|paypal.com|
-|Food and Beverages	|All recipes	|allrecipes.com|
-|Games	|Steam store	|store.steampowered.com|
-|Health	|National Institutes of Health	|nih.gov|
-|Information technology	|Wordpress	|wordpress.com|
-|Insurance	|Robobank	|rabobank.nl|
-|Investment	|upstox	|upstox.com|
-|Jobs	|ADP	|adp.com|
-|Market research	|Qualtrics	|qualtrics.com|
-|Music	|Genius	|genius.com|
-|News and Media	|Wikipedia	|wikipedia.com|
-|Online services	|Google	|google.com|
-|Real estate	|redfin	|redfin.com|
-|Restaurants	|Uber eats	|ubereats.com|
-|Science	|Sciencedirect	|sciencedirect.com|
-|Sports	|Marca	|marca.com|
-|Telecom	|Samsung	|samsung.com|
-|Transportation	|Usps	|usps.com|
-|Travel and Tourism	|Bahn	|bahn.de|
-|Vehicles	|Av.by	|cars.av.by|
-|Wellness	|Mayoclinic	|mayoclinic.org|
+
+| Web app type          | Web name                      | URL                        |
+|:----------------------|:------------------------------|:---------------------------|
+|Accommodation	        |Agoda	                        |agoda.cn                    |
+|Advertising	          |Doubleclick	                  |marketingplatform.google.com|
+|Airlines	              |Ryanair	                      |ryanair.com                 |
+|Banking	              |Chase	                        |chase.com                   |
+|Beauty	                |Sephora	                      |sephora.com                 |
+|Computer software	    |Openai	                        |openai.com                  |
+|Distance learning	    |Stackoverflow	                |stackoverflow.com           |
+|E-commerce	            |Onliner	                      |online.by                   |
+|Eduction	              |Youtube	                      |youtube.com                 |
+|Entertainment	        |Archive of our own	            |archiveofourown.org         |
+|Fashion	              |Shein	                        |shein.com                   |
+|Finance	              |Paypal	                        |paypal.com                  |
+|Food and Beverages	    |All recipes	                  |allrecipes.com              |
+|Games	                |Steam store	                  |store.steampowered.com      |
+|Health	                |National Institutes of Health	|nih.gov                     |
+|Information technology	|Wordpress	                    |wordpress.com               |
+|Insurance	            |Robobank	                      |rabobank.nl                 |
+|Investment	            |upstox	                        |upstox.com                  |
+|Jobs	                  |ADP	                          |adp.com                     |
+|Market research	      |Qualtrics	                    |qualtrics.com               |
+|Music	                |Genius	                        |genius.com                  |
+|News and Media	        |Wikipedia	                    |wikipedia.com               |
+|Online services	      |Google	                        |google.com                  |
+|Real estate	          |redfin	                        |redfin.com                  |
+|Restaurants	          |Uber eats	                    |ubereats.com                |
+|Science	              |Sciencedirect	                |sciencedirect.com           |
+|Sports	                |Marca                        	|marca.com                   |
+|Telecom	              |Samsung                      	|samsung.com                 |
+|Transportation	        |Usps	                          |usps.com                    |
+|Travel and Tourism	    |Bahn	                          |bahn.de                     |
+|Vehicles	              |Av.by	                        |cars.av.by                  |
+|Wellness	              |Mayoclinic	                    |mayoclinic.org              |
 
 
 ## Header 2
