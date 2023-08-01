@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # target websites
 | Web app type | Web name | URL |
+| --- | --- | --- |
 |Accommodation	|Agoda	|agoda.cn|
 |Advertising	|Doubleclick	|marketingplatform.google.com|
 |Airlines	|Ryanair	|ryanair.com|
@@ -46,7 +47,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 |Travel and Tourism	|Bahn	|bahn.de|
 |Vehicles	|Av.by	|cars.av.by|
 |Wellness	|Mayoclinic	|mayoclinic.org|
-![image](https://github.com/fret-project/fret-project.github.io/assets/141009672/314bffea-fe6e-4f68-82d7-6980b67e58f8)
 
 
 ## Header 2
