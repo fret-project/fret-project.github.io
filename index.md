@@ -127,7 +127,6 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 |Travel and Tourism	|96	|15	|121|
 |Vehicles	|71	|27	|85|
 |Wellness	|38	|14	|52|
-![image](https://github.com/fret-project/fret-project.github.io/assets/141009672/edfdd65b-c41f-4beb-80b2-2ad3b5e9dcdb)
 
 
 ```js
