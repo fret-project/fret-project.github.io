@@ -50,6 +50,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 |Wellness	              |Mayoclinic	                    |mayoclinic.org              |
 
 
+The sample test scripts we use are put on [./SampleTests](./SampleTests)
+
+
 ## Offline Sequencer Results
 | Web app type          |Offline generated<br>sequences number| sampling sequence<br>number|leagl sequence<br>number|
 |:----------------------|:----------|:--------------|:---|
