@@ -52,33 +52,33 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Offline Sequencer Results
 | Web app type          |Offline generated<br>sequences number| sampling sequence<br>number|leagl sequence<br>number|
-|:----------------------|:------------------------------|:--------------|:-------------|
+|:----------------------|:----------|:--------------|:---|
 |Accommodation          |   74,030  |   382         | 0  |
 |  Advertising          |   35,420  |   380         | 0  |    
-|  Airlines             |   2,826,252     |   384         | 0  |   
-|  Banking              |   168,480      |   384         | 0  |  
+|  Airlines             |  2,826,252|   384         | 0  |   
+|  Banking              |   168,480 |   384         | 0  |  
 |  Beauty               |   55,680  |   381         | 0  |  
 |  Computer software    |   58,562  |   381         | 2  |   
 |  Distance learning    |   23,440  |   377         | 1  |   
-|  E-commerce           |   3,386,812     |   384         | 0  | 
-|  Eduction             |   1,695,200     |   384         | 0  |   
-|  Entertainment        |   162,150      |   383         | 0  |   
-|  Fashion              |   1,617,000     |   384         | 0  |  
+|  E-commerce           | 3,386,812 |   384         | 0  | 
+|  Eduction             | 1,695,200 |   384         | 0  |   
+|  Entertainment        |   162,150 |   383         | 0  |   
+|  Fashion              |  1,617,000|   384         | 0  |  
 |  Finance              |   37,352  |   380         | 1  |  
 |  Food and Beverages   |   74,700  |   382         | 0  |   
-|  Games                |   603,720      |   383         | 0  |  
+|  Games                | 603,720   |   383         | 0  |  
 |  Health               |   90,896  |   382         | 0  |  
-| Information technology|   617,760      |   383         | 0  |   
-|  Insurance            |   169,664      |   383         | 0  |  
-|  Investment           |   304,128      |   383         | 0  |   
+| Information technology|   617,760 |   383         | 0  |   
+|  Insurance            |   169,664 |   383         | 0  |  
+|  Investment           |   304,128 |   383         | 0  |   
 |  Jobs                 |   44,649  |   380         | 0  |   
 |  Market research      |   26,895  |   378         | 1  |  
 |  Music                |   41,040  |   380         | 0  |   
-|  News and Media       |   509,184      |   383         | 0  |   
+|  News and Media       |   509,184 |   383         | 0  |   
 |  Online services      |   31,140  |   379         | 1  |   
 |  Real estate          |   58,590  |   381         | 0  |   
-|  Restaurants          |   110,700      |   382         | 1  |   
-|  Science              |   536,130      |   383         | 0  |   
+|  Restaurants          |   110,700 |   382         | 1  |   
+|  Science              |   536,130 |   383         | 0  |   
 |  Sports               |   55,440  |   381         | 0  |   
 |  Telecom              |   57,456  |   381         | 0  |   
 |  Transportation       |   32,480  |   379         | 1  |  
