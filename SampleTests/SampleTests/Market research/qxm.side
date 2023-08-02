@@ -1,0 +1,72 @@
+{
+  "id": "5a51d4e2-f805-4783-a0d0-e931aa7f9531",
+  "version": "2.0",
+  "name": "qxm",
+  "url": "https://www.qualtrics.com",
+  "tests": [{
+    "id": "8334e4a6-c012-4a93-b83a-41cae4c4f026",
+    "name": "1",
+    "commands": [{
+      "id": "a5a84520-87b6-4bda-9334-6fff7c4db1ed",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ea529bbc-03f1-4054-88ff-de4c2215baeb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x814",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6317e6ee-0cf1-4e4b-b22a-c50ba97fb4be",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='desktop-nav']/div/ul/li[2]/button",
+      "targets": [
+        ["css=.tab-solutions > .primary-nav-tab-button", "css:finder"],
+        ["xpath=//div[@id='desktop-nav']/div/ul/li[2]/button", "xpath:idRelative"],
+        ["xpath=//div/div/ul/li[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "56d26555-45ad-46da-a4e8-13c10135c783",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='desktop-nav']/div/ul/li[2]/section/div/ul/section/ul/li[3]/button",
+      "targets": [
+        ["css=.primary-subnav-tab-section:nth-child(3) .primary-subnav-tab:nth-child(6) > .primary-subnav-tab-button", "css:finder"],
+        ["xpath=//div[@id='desktop-nav']/div/ul/li[2]/section/div/ul/section/ul/li[3]/button", "xpath:idRelative"],
+        ["xpath=//section/ul/li[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf6d95bb-b233-4913-a675-b892b8addac0",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='desktop-nav']/div/ul/li[2]/section/div/ul/section/ul/section[3]/div/div[2]/div/div/ul/li[3]/a",
+      "targets": [
+        ["linkText=Account Management", "linkText"],
+        ["css=.primary-subnav-tab-section:nth-child(3) .primary-subnav-tab-section:nth-child(7) .column-details-content-block:nth-child(1) .primary-nav-tab-column-link:nth-child(3) > a:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Account Management')]", "xpath:link"],
+        ["xpath=//div[@id='desktop-nav']/div/ul/li[2]/section/div/ul/section/ul/section[3]/div/div[2]/div/div/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/customer-experience/account-management/')]", "xpath:href"],
+        ["xpath=//section/ul/section[3]/div/div[2]/div/div/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Account Management')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "f414aaa3-40c3-45ca-81e5-184f88f24535",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8334e4a6-c012-4a93-b83a-41cae4c4f026"]
+  }],
+  "urls": ["https://www.qualtrics.com/"],
+  "plugins": []
+}

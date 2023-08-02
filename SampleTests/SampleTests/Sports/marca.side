@@ -1,0 +1,92 @@
+{
+  "id": "b5fcc88c-109c-40e7-9ba8-cdff9f9591eb",
+  "version": "2.0",
+  "name": "marca",
+  "url": "https://www.marca.com",
+  "tests": [{
+    "id": "f1625bed-8d88-4a85-bb35-0c4312ce23a4",
+    "name": "1",
+    "commands": [{
+      "id": "2719ed20-49f2-44fa-bc07-59ac522ae61c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2da0bbec-5f82-4c2c-b11d-7bdf58a3f3c6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x814",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4ac7d67b-a37e-40bb-81bb-442ac27d26b7",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//nav/ul/li[3]/a",
+      "targets": [
+        ["linkText=Motor", "linkText"],
+        ["css=.main-tab-motor > .highlight", "css:finder"],
+        ["xpath=//a[contains(text(),'Motor')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'https://www.marca.com/motor.html?intcmp=MENUPROD&s_kw=motor')]", "xpath:href"],
+        ["xpath=//nav/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Motor')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c0e77ee-a78c-4777-8484-7e56f23ce387",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div/ul/li[2]/ul/li/a",
+      "targets": [
+        ["linkText=Rallies", "linkText"],
+        ["css=#submenuMotor .tab-column:nth-child(2) .tab-list:nth-child(1) > .tab-list-header", "css:finder"],
+        ["xpath=//a[contains(text(),'Rallies')]", "xpath:link"],
+        ["xpath=//div[@id='submenuMotor']/ul/li[2]/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.marca.com/motor/rallies.html?intcmp=MENUPROD&s_kw=rallies')]", "xpath:href"],
+        ["xpath=//div/ul/li[2]/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Rallies')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bb59fa99-b680-4820-ae12-02dedbf0d035",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//main/div[4]/div/div/div/div/div/div[2]/article/div/div[2]/header/a",
+      "targets": [
+        ["linkText=Javier Pardo da la campanada en Lorca y es nuevo líder del Supercampeonato", "linkText"],
+        ["css=.ue-l-cover-grid__unit:nth-child(2) .ue-c-cover-content__link", "css:finder"],
+        ["xpath=//main[@id='js_566ffcb4e2704e6a718b4683']/div[4]/div/div/div/div/div/div[2]/article/div/div[2]/header/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.marca.com/motor/rallies/2023/04/15/643aa29b22601d6d138b456c.html')]", "xpath:href"],
+        ["xpath=//div[2]/article/div/div[2]/header/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Javier Pardo da la campanada en Lorca y es nuevo líder del Supercampeonato')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ce9959e0-3fa4-4ad2-8ba5-f125bf07ebf5",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//li[2]/a/span",
+      "targets": [
+        ["css=.tools-corporative-link > span", "css:finder"],
+        ["xpath=//li[2]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Iniciar sesión')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win8284",
+      "windowTimeout": 2000
+    }]
+  }],
+  "suites": [{
+    "id": "2708b582-4015-4c21-89d4-a117a20a23f4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f1625bed-8d88-4a85-bb35-0c4312ce23a4"]
+  }],
+  "urls": ["https://www.marca.com/"],
+  "plugins": []
+}

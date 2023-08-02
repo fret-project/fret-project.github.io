@@ -1,0 +1,73 @@
+{
+  "id": "470c220f-afdc-442c-a8a1-2d20db88a721",
+  "version": "2.0",
+  "name": "wiki",
+  "url": "https://www.wikipedia.org",
+  "tests": [{
+    "id": "47ae0ac2-b815-4e7c-8ec6-1ffbb8586fdf",
+    "name": "1",
+    "commands": [{
+      "id": "623e6ade-38de-456c-8236-85420e99436d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8ed0c761-95a0-4632-a0c8-e2d5c4557c72",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x811",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "70cda7e0-2f75-434f-a9b0-5d9df828b20f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='js-link-box-en']/strong",
+      "targets": [
+        ["css=#js-link-box-en > strong", "css:finder"],
+        ["xpath=//a[@id='js-link-box-en']/strong", "xpath:idRelative"],
+        ["xpath=//div[2]/a/strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'English')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "907b15fb-c913-4519-b7c5-d67fbe4574de",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='mp-itn']/ul/li[2]/b[2]/a",
+      "targets": [
+        ["linkText=months of protests", "linkText"],
+        ["css=#mp-itn b:nth-child(3) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'months of protests')]", "xpath:link"],
+        ["xpath=//div[@id='mp-itn']/ul/li[2]/b[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/wiki/2023_Israeli_judicial_reform_protests')]", "xpath:href"],
+        ["xpath=//li[2]/b[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'months of protests')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "32f0e065-f4a0-4f7e-b14d-5398d6d80c01",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div/ul/li[6]/a/div",
+      "targets": [
+        ["css=#toc-Notes .vector-toc-text", "css:finder"],
+        ["xpath=//li[@id='toc-Notes']/a/div", "xpath:idRelative"],
+        ["xpath=//div/ul/li[6]/a/div", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4549ab63-1b00-40e4-9158-9e8721f8b1b6",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["47ae0ac2-b815-4e7c-8ec6-1ffbb8586fdf"]
+  }],
+  "urls": ["https://www.wikipedia.org/"],
+  "plugins": []
+}

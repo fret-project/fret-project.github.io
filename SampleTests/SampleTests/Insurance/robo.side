@@ -1,0 +1,75 @@
+{
+  "id": "91b1296d-b08f-4522-b89f-4df6cefaa875",
+  "version": "2.0",
+  "name": "robo",
+  "url": "https://www.rabobank.nl",
+  "tests": [{
+    "id": "0bc89668-e0b7-4689-b609-f236ff4551d9",
+    "name": "1",
+    "commands": [{
+      "id": "f2d552e4-f732-4e64-8bca-700a343c4eb2",
+      "comment": "",
+      "command": "open",
+      "target": "/particulieren",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d870169d-b19c-42e1-b003-ba67e09ce056",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1420x794",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "024454cc-ce8d-47c7-8d4a-79b3522810c2",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//nav[@id='main_navigation']/ul/li[3]/a",
+      "targets": [
+        ["linkText=Service", "linkText"],
+        ["css=.item:nth-child(3) > .sfc-text", "css:finder"],
+        ["xpath=//a[contains(text(),'Service')]", "xpath:link"],
+        ["xpath=//nav[@id='main_navigation']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//nav/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Service')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dfa7d5b9-9985-4256-9377-83092ee90ec6",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//nav[@id='main_navigation']/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a",
+      "targets": [
+        ["linkText=Betaalpas", "linkText"],
+        ["css=.item:nth-child(3) .nav-item:nth-child(2) .item:nth-child(2) > .link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Betaalpas')])[2]", "xpath:link"],
+        ["xpath=//nav[@id='main_navigation']/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/particulieren/service/betaalpas')])[2]", "xpath:href"],
+        ["xpath=//li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5b063975-2815-4674-a018-cb2433c9601b",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='content']/page-default/feature-entities-renderer[2]/section/senses-related-links/div/senses-related-link-list[2]/div/sfc-link/a/span",
+      "targets": [
+        ["css=.sfc-col-12:nth-child(2) .link:nth-child(1) span", "css:finder"],
+        ["xpath=//div[@id='content']/page-default/feature-entities-renderer[2]/section/senses-related-links/div/senses-related-link-list[2]/div/sfc-link/a/span", "xpath:idRelative"],
+        ["xpath=//senses-related-link-list[2]/div/sfc-link/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Betaalpas activeren')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "517976f8-9194-4c02-ad8b-783499fa208f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["0bc89668-e0b7-4689-b609-f236ff4551d9"]
+  }],
+  "urls": ["https://www.rabobank.nl/"],
+  "plugins": []
+}

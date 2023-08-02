@@ -1,0 +1,2 @@
+click //input[@id="tos_agree"]
+click //button[@id="accept_tos"]

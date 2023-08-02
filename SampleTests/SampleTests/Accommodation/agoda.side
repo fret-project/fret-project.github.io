@@ -1,0 +1,92 @@
+{
+  "id": "11312e96-7729-4480-bf26-6108b6a050be",
+  "version": "2.0",
+  "name": "agoda",
+  "url": "https://www.agoda.cn",
+  "tests": [{
+    "id": "f9f38f0b-3b3c-4db8-88d0-c70a172c5889",
+    "name": "1",
+    "commands": [{
+      "id": "ed32f627-7e1e-4ddb-b0d9-7ad6848cf291",
+      "comment": "",
+      "command": "open",
+      "target": "/zh-cn/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ff395bc6-3fda-4eaa-bad8-e8905246f7c8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x812",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "666b82a4-9435-406f-a519-bb559010d037",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='home-react-root']/div/div/div/div/div/div[3]/div/div/div[3]/div/a/img",
+
+      "targets": [
+        ["css=.TopDestinationRailStandard:nth-child(5) .Box-sc-kv6pi1-0:nth-child(3) .Box-sc-kv6pi1-0:nth-child(3) .TopDestinationItem__Image:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='home-react-root']/div/div/div[5]/div/div/div[3]/div/div/div[3]/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[3]/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "349f07df-3c4f-4b9d-9cd7-2db591083794",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div[2]/div/div[2]/div/div[3]/div[5]/div[4]",
+      "targets": [
+        ["css=.DayPicker-Month:nth-child(1) .DayPicker-Week:nth-child(5) > .DayPicker-Day:nth-child(4)", "css:finder"],
+        ["xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div[2]/div/div[2]/div/div[3]/div[5]/div[4]", "xpath:idRelative"],
+        ["xpath=//div[5]/div[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6001e648-8b5d-4e6f-8f99-230c1aeeff8c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[3]/span",
+      "targets": [
+        ["css=.DayPicker-Day--checkOut > .DayPicker-Day__label", "css:finder"],
+        ["xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[3]/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div[3]/div[3]/div[3]/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0fe3a3f6-284e-4286-b043-dcfc9ccbcb6e",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div/div/div/div[4]/div",
+      "targets": [
+        ["css=.TravellerSegment:nth-child(4) > .TravellerSegment__title", "css:finder"],
+        ["xpath=//div[@id='SearchBoxContainer']/div/div/div[5]/div/div/div/div/div/div[4]/div", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div/div/div/div/div[4]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b8d90b53-2b4a-41e6-b74b-0f0058c39165",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='SearchBoxContainer']/div/div/button",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//div[@id='SearchBoxContainer']/div/div/button", "xpath:idRelative"],
+        ["xpath=//div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'搜索')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "69ff01d3-cf79-43ce-be24-1499629e6837",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f9f38f0b-3b3c-4db8-88d0-c70a172c5889"]
+  }],
+  "urls": ["https://www.agoda.cn/"],
+  "plugins": []
+}

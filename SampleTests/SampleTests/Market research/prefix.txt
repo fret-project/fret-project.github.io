@@ -1,0 +1,1 @@
+click /html/body/main/div[2]/div/div/div[1]/div/button[1]

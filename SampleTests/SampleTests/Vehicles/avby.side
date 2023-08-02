@@ -1,0 +1,96 @@
+{
+  "id": "46f5a8b3-c028-437c-afd8-ac90f055771c",
+  "version": "2.0",
+  "name": "avby",
+  "url": "https://av.by",
+  "tests": [{
+    "id": "1be27fe9-873c-4066-b653-06c53018fb10",
+    "name": "1",
+    "commands": [{
+      "id": "28534b46-31c2-482e-8c9f-2fbd782f1c4c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1fc3ab55-f453-42e0-ad08-5371d445b571",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x814",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "60f6121f-171b-4ffc-a48c-3a99c605aba2",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='__next']/div[2]/div[2]/div/main/div/div/div/div/div/div[2]/div/ul[2]/li[3]/a/span",
+      "targets": [
+        ["css=.catalog__items:nth-child(2) > .catalog__item:nth-child(3) .catalog__title", "css:finder"],
+        ["xpath=//div[@id='__next']/div[2]/div[2]/div/main/div/div/div/div/div/div[2]/div/ul[2]/li[3]/a/span", "xpath:idRelative"],
+        ["xpath=//ul[2]/li[3]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Lada (ВАЗ)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "64e9ea54-c00c-428a-a2b5-f80c4f136ba6",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='__next']/div[2]/main/div/div/div/div[3]/div/ul[3]/li[4]/a/span",
+      "targets": [
+        ["css=.catalog__items:nth-child(3) > .catalog__item:nth-child(4) .catalog__title", "css:finder"],
+        ["xpath=//div[@id='__next']/div[2]/main/div/div/div/div[3]/div/ul[3]/li[4]/a/span", "xpath:idRelative"],
+        ["xpath=//ul[3]/li[4]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Granta')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fd0fae1c-d808-4bdf-a939-ce758fbecfb4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,395.5)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a4cf2de2-9a8a-4ffd-905b-8dfa9a8a95a2",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='__next']/div[2]/main/div/div/div/div[5]/div[3]/div/div[3]/div/div/div/div[2]/h3/a/span",
+      "targets": [
+        ["css=.listing-item:nth-child(1) .link-text", "css:finder"],
+        ["xpath=//div[@id='__next']/div[2]/main/div/div/div/div[5]/div[3]/div/div[3]/div/div/div/div[2]/h3/a/span", "xpath:idRelative"],
+        ["xpath=//h3/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Lada (ВАЗ) Granta I')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f1eddfb0-a9e3-4b1d-94c9-152e791eebb2",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,307.5)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "763f7218-98cc-4d35-be75-7650aef78fa9",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='__next']/div[2]/main/div/div/div/div/div[3]/div[2]/div/div/div[2]/div/div[4]",
+      "targets": [
+        ["css=.gallery__nav-frame:nth-child(4)", "css:finder"],
+        ["xpath=//div[@id='__next']/div[2]/main/div/div/div/div/div[3]/div[2]/div/div/div[2]/div/div[4]", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div[4]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "24b9553a-26a8-4594-b41a-0b2786c81c74",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1be27fe9-873c-4066-b653-06c53018fb10"]
+  }],
+  "urls": ["https://av.by/"],
+  "plugins": []
+}
