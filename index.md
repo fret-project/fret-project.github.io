@@ -1,16 +1,3 @@
----
-layout: default
----
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Target Websites
 
@@ -54,7 +41,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 ## Offline Sequencer Results
-| Web app type          |Offline generated<br>sequences number| sampling sequence<br>number|leagl sequence<br>number|
+| Web app type          |Offline generated sequences number| sampling sequence number|leagl sequence number|
 |:----------------------|:----------|:--------------|:---|
 |Accommodation          |   74,030  |   382         | 0  |
 |  Advertising          |   35,420  |   380         | 0  |    
