@@ -91,7 +91,44 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-### Header 3
+### Generated Sequences for 2 Online Sequencer
+
+|web app type	|random deduplication<br>sequence number 	|random redundancy<br>sequence number	|coloring deduplication<br>sequence number|
+|:----------------------|:----------|:--------------|:---|
+|Accommodation	|66	|7	|63|
+|Advertising	|296	|45	|372|
+|Airlines	|92	|57	|109|
+|Banking	|81	|77	|102|
+|Beauty	|135	|27	|138|
+|Computer software	|269	|53	|289|
+|Distance learning	|65	|20	|93|
+|E-commerce	|62	|8	|89|
+|Education	|106	|29	|162|
+|Entertainment	|274	|113	|341|
+|Fashion	|194	|37	|197|
+|Finance	|203	|39	|213|
+|Food and Beverages	|224	|36	|289|
+|Games	|50	|84	|52|
+|Health	|36	|19	|74|
+|Information technology	|13	|24	|20|
+|Insurance	|269	|12	|292|
+|Investment	|50	|16	|55|
+|Jobs	|94	|13	|119|
+|Market research	|152	|17	|161|
+|Music	|68	|38	|81|
+|News and Media	|234	|8	|236|
+|Online services	|67	|42	|84|
+|Real estate	|117	|14	|123|
+|Restaurants	|89	|15	|125|
+|Science	|31	|34	|42|
+|Sports	|107	|6	|96|
+|Telecom	|51	|23	|59|
+|Transportation	|100	|14	|105|
+|Travel and Tourism	|96	|15	|121|
+|Vehicles	|71	|27	|85|
+|Wellness	|38	|14	|52|
+![image](https://github.com/fret-project/fret-project.github.io/assets/141009672/edfdd65b-c41f-4beb-80b2-2ad3b5e9dcdb)
+
 
 ```js
 // Javascript code with syntax highlighting.
