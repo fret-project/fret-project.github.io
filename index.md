@@ -42,7 +42,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 ## Offline Sequencer Results
 | Web app type          |Offline generated sequences number| sampling sequence number|leagl sequence number|
-|:----------------------|:----------|:--------------|:---|
+|:---------------------:|-----------|---------------|----|
 |Accommodation          |   74,030  |   382         | 0  |
 |  Advertising          |   35,420  |   380         | 0  |    
 |  Airlines             |  2,826,252|   384         | 0  |   
@@ -116,26 +116,78 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 |Wellness	|38	|27	|52|
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+#### Generated sequences number of each experiment
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+|     web app  type      | strategy type | medium number | s1   | s2   | s3   | s4   | s5   |
+| :--------------------: | ------------- | ------------- | ---- | ---- | ---- | ---- | ---- |
+|     Accommodation      | random        | 66            | 48   | 66   | 70   | 65   | 78   |
+|                        | coloring      | 63            | 57   | 74   | 63   | 62   | 75   |
+|      Advertising       | random        | 296           | 296  | 332  | 276  | 324  | 262  |
+|                        | coloring      | 372           | 359  | 378  | 273  | 374  | 372  |
+|        Airlines        | random        | 92            | 47   | 97   | 92   | 95   | 64   |
+|                        | coloring      | 109           | 48   | 116  | 109  | 113  | 86   |
+|        Banking         | random        | 81            | 124  | 80   | 86   | 81   | 79   |
+|                        | coloring      | 102           | 145  | 81   | 108  | 102  | 82   |
+|         Beauty         | random        | 135           | 117  | 153  | 145  | 112  | 135  |
+|                        | coloring      | 124           | 156  | 133  | 120  | 111  | 124  |
+|   Computer software    | random        | 269           | 250  | 269  | 347  | 291  | 225  |
+|                        | coloring      | 289           | 283  | 289  | 371  | 327  | 233  |
+|   Distance learning    | random        | 65            | 138  | 44   | 68   | 62   | 65   |
+|                        | coloring      | 93            | 173  | 75   | 107  | 70   | 93   |
+|       E-commerce       | random        | 62            | 35   | 85   | 62   | 54   | 92   |
+|                        | coloring      | 89            | 42   | 123  | 89   | 78   | 118  |
+|        Eduction        | random        | 106           | 86   | 144  | 104  | 106  | 141  |
+|                        | coloring      | 162           | 141  | 176  | 153  | 162  | 165  |
+|     Entertainment      | random        | 274           | 38   | 274  | 308  | 368  | 243  |
+|                        | coloring      | 341           | 45   | 343  | 341  | 383  | 316  |
+|        Fashion         | random        | 194           | 402  | 194  | 116  | 137  | 228  |
+|                        | coloring      | 197           | 484  | 197  | 119  | 142  | 238  |
+|        Finance         | random        | 203           | 226  | 182  | 203  | 217  | 197  |
+|                        | coloring      | 213           | 230  | 213  | 210  | 224  | 212  |
+|   Food and Beverages   | random        | 224           | 108  | 224  | 248  | 218  | 267  |
+|                        | coloring      | 289           | 115  | 289  | 301  | 287  | 335  |
+|         Games          | random        | 57            | 50   | 57   | 58   | 43   | 57   |
+|                        | coloring      | 52            | 52   | 62   | 52   | 48   | 53   |
+|         Health         | random        | 36            | 47   | 36   | 35   | 36   | 37   |
+|                        | coloring      | 74            | 83   | 74   | 74   | 74   | 74   |
+| Information technology | random        | 13            | 14   | 13   | 10   | 13   | 16   |
+|                        | coloring      | 20            | 20   | 20   | 21   | 20   | 24   |
+|       Insurance        | random        | 269           | 467  | 216  | 269  | 187  | 284  |
+|                        | coloring      | 292           | 551  | 279  | 292  | 229  | 317  |
+|       Investment       | random        | 50            | 51   | 50   | 46   | 50   | 48   |
+|                        | coloring      | 55            | 64   | 56   | 54   | 54   | 55   |
+|          Jobs          | random        | 94            | 145  | 72   | 74   | 94   | 132  |
+|                        | coloring      | 119           | 155  | 97   | 84   | 119  | 152  |
+|    Market research     | random        | 133           | 214  | 152  | 178  | 107  | 133  |
+|                        | coloring      | 161           | 348  | 121  | 211  | 126  | 161  |
+|         Music          | random        | 68            | 68   | 77   | 67   | 76   | 67   |
+|                        | coloring      | 81            | 83   | 81   | 73   | 87   | 72   |
+|     News and Media     | random        | 234           | 234  | 213  | 223  | 261  | 264  |
+|                        | coloring      | 236           | 236  | 218  | 224  | 266  | 269  |
+|    Online services     | random        | 67            | 62   | 69   | 58   | 79   | 67   |
+|                        | coloring      | 84            | 87   | 82   | 77   | 86   | 84   |
+|      Real estate       | random        | 117           | 52   | 117  | 138  | 114  | 172  |
+|                        | coloring      | 130           | 103  | 123  | 130  | 168  | 164  |
+|      Restaurants       | random        | 87.5          | 89   | 70   | 97   | 86   | 93   |
+|                        | coloring      | 114           | 125  | 82   | 134  | 114  | 107  |
+|        Science         | random        | 31            | 95   | 25   | 31   | 27   | 33   |
+|                        | coloring      | 42            | 114  | 41   | 42   | 41   | 54   |
+|         Sports         | random        | 96            | 95   | 134  | 96   | 86   | 117  |
+|                        | coloring      | 107           | 94   | 131  | 107  | 101  | 136  |
+|        Telecom         | random        | 51            | 51   | 72   | 42   | 62   | 47   |
+|                        | coloring      | 59            | 59   | 75   | 43   | 73   | 45   |
+|     Transportation     | random        | 100           | 100  | 98   | 192  | 168  | 84   |
+|                        | coloring      | 105           | 105  | 104  | 175  | 152  | 92   |
+|   Travel and Tourism   | random        | 96            | 53   | 96   | 105  | 83   | 98   |
+|                        | coloring      | 117           | 121  | 128  | 132  | 113  | 117  |
+|        Vehicles        | random        | 71            | 71   | 95   | 62   | 70   | 97   |
+|                        | coloring      | 85            | 77   | 90   | 85   | 81   | 95   |
+|        Wellness        | random        | 38            | 27   | 38   | 46   | 41   | 37   |
+|                        | coloring      | 52            | 25   | 52   | 52   | 52   | 52   |
+
+
 
 ##### Header 5
 
