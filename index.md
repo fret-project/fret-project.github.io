@@ -1,7 +1,7 @@
 
 # Fret Experiment Data
 
-# Target Websites
+## Target Websites
 
 | Web app type          | Web name                      | URL                        |
 |:---------------------:|:-----------------------------:|:--------------------------:|
@@ -42,7 +42,7 @@
 The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
-# Offline Sequencer Results
+## Offline Sequencer Results
 
 |      Web app type      | Offline generated<br>sequences number | sampling<br>sequence number | legal<br>sequence number |
 | :--------------------: | :--------------------------------: | :----------------------: | :-------------------: |
@@ -82,7 +82,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-# Generated Sequences for 2 Online Sequencer
+## Generated Sequences for 2 Online Sequencer
 
 |web app type	|random deduplication<br>sequence number 	|random redundancy<br>sequence number	|coloring deduplication<br>sequence number|
 |:---------------------:|:---------:|:-------------:|:--:|
@@ -122,7 +122,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-# Generated Sequences Number of Each Experiment
+## Generated Sequences Number of Each Experiment
 
 |     web app  type      | strategy type | median number | e1   | e2   | e3   | e4   | e5   |
 | :--------------------: | :-----------: | :-----------: | :--: | :---:|:----:|:----:|:----:|
@@ -193,7 +193,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-# Random Redundancy Number for Each Experiment
+## Random Redundancy Number for Each Experiment
 
 | web app  type          | median number | e1  | e2 | e3  | e4  | e5  |
 | :--------------------: |:--------- --: | :--: | :--: | :--: | :--: | :--: |
@@ -232,7 +232,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-# Covered Element Number of Each Experiment
+## Covered Element Number of Each Experiment
 
 |     web app  type      | example action number | median number |  e1  |  e2  |  e3  |  e4  |  e5  |
 | :--------------------: | :-------------------: | :-----------: | :--: | :--: | :--: | :--: | :--: |
@@ -270,23 +270,4 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 |        Wellness        |           3           |      79       |  41  |  79  |  79  |  79  |  79  |
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
