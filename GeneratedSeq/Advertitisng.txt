@@ -1,0 +1,1853 @@
+[MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver //a[contains(text(),'For Enterprises')]'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-1"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-5"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[4]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[5]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-1"]/div/ul/li[3]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-3"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[1]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-4"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[2]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click /html/body/footer/section[2]/ul[1]/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click //div[@id="column-5"]/div/ul/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[1]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[1]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[1]/a'};
+Click //div[@id="column-2"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[2]/a'};
+Click //div[@id="column-3"]/div/ul/li[2]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[2]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[3]/a'};
+Click /html/body/footer/section[2]/ul[2]/li[1]/a'};
+-------------
+, MouseOver /html/body/div[2]/div[1]/nav/ul/li[2]/a'};
+Click /html/body/div[2]/div[1]/div[6]/nav/div[2]/div[3]/ul/li[3]/a/p'};
+Click /html/body/div[2]/div[1]/nav[2]/ul/li[4]/a'};
+Click //div[@id="column-2"]/div/ul/li[1]/a'};
+-------------
+]

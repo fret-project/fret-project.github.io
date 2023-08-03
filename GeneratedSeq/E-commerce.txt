@@ -1,0 +1,325 @@
+[MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[5]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[6]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[3]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[6]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[1]/a[2]/span'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/div/div/div/div/div/div[2]/div/div[4]/ul/li[5]/a/span'};
+Click //div[@id='container']/div/div/div/div/div/div[2]/div/div/div/div[3]/div/div[3]/div/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[6]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[1]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[5]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[2]/div[2]/div/div[1]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[5]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[1]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[2]/div[2]/div/div[2]/ul/li[2]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[2]/a/span[1]'};
+Click //div[@id="container"]/div/div/header/div[3]/div/div[1]/a'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[1]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[4]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[1]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[2]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[3]/a/span[1]'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[4]/ul/li[5]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[5]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[4]/a/span'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[2]/ul/li[6]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[3]/div[1]/a/picture/img'};
+-------------
+, MouseOver //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/a/span'};
+Click //div[@id="container"]/div/div/header/div[2]/div/nav/ul[1]/li[3]/div/div/div/div/div[1]/div[2]/div/div[3]/ul/li[3]/a/span[1]'};
+Click //div[@id="container"]/div/div/div/div/div/div[2]/div/div/div[1]/div[3]/div/div[4]/div[1]/a/picture/img'};
+-------------
+]

@@ -1,0 +1,239 @@
+[Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[3]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[4]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[2]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[1]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[2]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/div[3]/div/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[3]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[4]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[2]/div[1]/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[1]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/div[3]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[4]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[3]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[2]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[5]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[1]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[2]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[4]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[5]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[4]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[10]/div/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[16]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[2]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[4]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[2]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[23]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[5]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[1]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[2]/div[1]/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/div[3]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[13]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[4]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[2]/div[1]/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[22]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/div[3]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[5]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[1]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[1]/div[2]/span/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[1]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[5]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[1]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[2]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[3]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[4]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[3]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[5]/div[2]/span[3]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[2]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="sticky-nav"]/div[1]/div/a[2]'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[1]/div[2]/span/span/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[6]/div/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[2]/div/div/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[6]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[1]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[1]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[10]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[5]/ol/li[2]/div/a'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[2]/div/div/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[2]/div[2]/span[3]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[1]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[5]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[8]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[1]/div[3]/div[1]/div[1]/div[1]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[7]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[6]/div[2]/span[2]/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[9]/div[2]/h3/div[1]'};
+-------------
+, Click //div[@id='top-songs']/div/div[2]/a[2]/div[2]/h3/div'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[4]/div[2]/span/span/a'};
+-------------
+, Click //div[@id="top-songs"]/div/div[2]/a[4]/div[2]/h3/div[1]'};
+Click //div[@id="application"]/main/div[3]/div[3]/div[1]/div[7]/div[1]/div/div[3]/div[3]/div[2]/span[1]/span/a'};
+-------------
+]

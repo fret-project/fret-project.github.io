@@ -1,0 +1,506 @@
+[Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[1]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[3]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_fca8b3d02c0844dfa40a5755086237cb"]/section/div[1]/div[4]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[1]/a'};
+Click //div[@id="ADP_5b880a22112d4a7d984e479af9b15793"]/section/div[1]/div/div/div[5]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[5]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_dfd34d9d1848484d8a653bf19ac6c3e4"]/section/div/div[3]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_4f817b6c5f284981a42f32ce2f726d7d"]/section/div[1]/div[3]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_13aa1492e4de4a22bdb0f53431601f34"]/section/div[1]/div/div[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_1d6102c348bf42fc9e2a026295dc76ac"]/section/div/div/div/div[7]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_862d1a2ea5014c45a1751dca007e9832"]/section/div/div/div/div[3]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[7]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_7d4df04b94fa40d4be55aa7121d8e08e"]/section/div/div/div/div[6]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[5]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_f1776694991c4995924c7fff8facd2e3"]/section/div/div/div/div[3]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_7d4df04b94fa40d4be55aa7121d8e08e"]/section/div/div/div/div[5]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_1d6102c348bf42fc9e2a026295dc76ac"]/section/div/div/div/div[4]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_1d6102c348bf42fc9e2a026295dc76ac"]/section/div/div/div/div[3]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_4f817b6c5f284981a42f32ce2f726d7d"]/section/div[1]/div[4]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_dfd34d9d1848484d8a653bf19ac6c3e4"]/section/div/div[1]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_5e39539596114f26bffb264d87325072"]/section/div/div[2]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_9ad7e739629344d0a594b4dbf9d06345"]/section/div/div/div/div[6]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_9ad7e739629344d0a594b4dbf9d06345"]/section/div/div/div/div[4]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[5]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[5]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[1]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[3]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[5]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_fca8b3d02c0844dfa40a5755086237cb"]/section/div[1]/div[3]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_ccb489bee366449f8d19560f9d9e89fa"]/section/div/div/div/div[2]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_ccb489bee366449f8d19560f9d9e89fa"]/section/div/div/div/div[3]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_ccb489bee366449f8d19560f9d9e89fa"]/section/div/div/div/div[1]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_4f817b6c5f284981a42f32ce2f726d7d"]/section/div[1]/div[1]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[5]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[3]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/ul/li[2]/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_9ad7e739629344d0a594b4dbf9d06345"]/section/div/div/div/div[5]/div/div/div/img'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[8]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_fca8b3d02c0844dfa40a5755086237cb"]/section/div[1]/div[1]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[4]/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[7]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_5e39539596114f26bffb264d87325072"]/section/div/div[1]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[4]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/ul/li[2]/ul/li[5]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[4]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_7d4df04b94fa40d4be55aa7121d8e08e"]/section/div/div/div/div[4]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_862d1a2ea5014c45a1751dca007e9832"]/section/div/div/div/div[2]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[1]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_862d1a2ea5014c45a1751dca007e9832"]/section/div/div/div/div[1]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_f1776694991c4995924c7fff8facd2e3"]/section/div/div/div/div[2]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_f1776694991c4995924c7fff8facd2e3"]/section/div/div/div/div[1]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_1d6102c348bf42fc9e2a026295dc76ac"]/section/div/div/div/div[5]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[4]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[1]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_1d6102c348bf42fc9e2a026295dc76ac"]/section/div/div/div/div[6]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_4f817b6c5f284981a42f32ce2f726d7d"]/section/div[1]/div[2]/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[3]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[1]/a'};
+Click //div[@id="ADP_5b880a22112d4a7d984e479af9b15793"]/section/div[1]/div/div/div[6]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[5]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[2]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[1]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[1]/a'};
+Click //div[@id="ADP_5b880a22112d4a7d984e479af9b15793"]/section/div[1]/div/div/div[4]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[5]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[5]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[5]/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_84468f1432d841c2b4df60d248795924"]/section/div/div/div/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[3]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[2]/div/img'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/ul[2]/li[2]/ul/li[3]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[3]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_24d20b7482fe44a0b2c97eaafe265619"]/section/div/div[3]/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_99d263d172ba4a349c231ef7417aa24e"]/section/div/div/div/div[6]/div/div/div/img'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[2]/div/ul/li[2]/ul/li[2]/ul/li[4]/a'};
+Click //div[@id="ADP_99d263d172ba4a349c231ef7417aa24e"]/section/div/div/div/div[5]/div/div/div/img'};
+-------------
+, Click //nav/ul/li[3]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[3]/div/ul/li[6]/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click /html/body/header/div/div[1]/div/nav/ul/li[1]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/a'};
+Click /html/body/header/div/div[1]/div/nav/ul/li[1]/div/ul/li[6]/ul/li[2]/ul/li[4]/a'};
+-------------
+]

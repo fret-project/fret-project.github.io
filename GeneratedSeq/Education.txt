@@ -1,0 +1,628 @@
+[Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="show-hide-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-channel-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-channel-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="show-more-button"]/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id='chips']/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id='thumbnail']/yt-image/img'};
+Click //div[@id='top-level-buttons-computed']/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-channel-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="show-hide-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="show-hide-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-channel-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="show-hide-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="subscribe-button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="search-clear-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="left-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-like-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="top-level-buttons-computed"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="skip-navigation"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="sponsor-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="voice-search-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="segmented-dislike-button"]/ytd-toggle-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="buttons"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[1]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="right-arrow-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //yt-button-shape[@id="button-shape"]/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[3]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="notification-preference-button"]/ytd-subscription-notification-toggle-button-renderer-next/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-channel-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[7]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[5]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[6]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="infocard-videos-button"]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="visibility-button"]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[4]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //div[@id="flexible-item-buttons"]/ytd-download-button-renderer/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'};
+-------------
+, Click //iron-selector[@id="chips"]/yt-chip-cloud-chip-renderer[2]'};
+Click //a[@id="thumbnail"]/yt-image/img'};
+Click //ytd-button-renderer[@id="sign-in-button"]/yt-button-shape/a/yt-touch-feedback-shape/div/div[2]'};
+-------------
+]

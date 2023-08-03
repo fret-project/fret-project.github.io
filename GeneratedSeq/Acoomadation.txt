@@ -1,0 +1,279 @@
+[Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[7]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[3]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[4]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[2]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[4]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[1]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[3]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[4]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[6]'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[6]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[2]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[3]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[1]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[3]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[6]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[3]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[5]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[1]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[3]/div/div/div[3]/div/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[1]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="home-react-root"]/div/div/div[3]/div/div/div[3]/div/div/div[1]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[3]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[4]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[3]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[6]/span'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[6]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[6]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[1]/span'};
+-------------
+
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[4]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[3]/div/div/div[3]/div/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[7]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[2]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[6]'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[6]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[3]'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[6]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[6]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[1]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[3]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[5]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[4]/div[1]'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[6]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[2]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[1]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[7]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[7]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[7]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[3]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[2]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[7]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[4]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[6]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[3]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[5]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[4]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[3]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[3]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[3]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[2]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[4]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[1]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[4]/span'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[7]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[3]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[3]/div[1]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[2]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[1]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[1]/div[2]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[3]/div[1]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[6]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[3]/div[1]'};
+Click //div[@id="SearchBoxContainer"]/div/div/button'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[5]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[6]'};
+Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[7]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[3]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[6]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[1]/span'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div/div/div/div[1]/div[1]'};
+Click //div[@id="home-react-root"]/div/div/div[3]/div/div/div[3]/div/div/div[3]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[2]/div/a/img'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[3]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[6]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[5]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[5]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[2]/div[3]/div[5]/div[1]/span'};
+-------------
+, Click //div[@id="home-react-root"]/div/div/div[6]/div/div/div[3]/div[1]/div/div[4]/div/a/img'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[5]/div[4]'};
+Click //div[@id="SearchBoxContainer"]/div/div/div[5]/div/div/div[2]/div/div[2]/div[1]/div[3]/div[2]/div[5]/span'};
+-------------
+]
