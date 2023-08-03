@@ -10,37 +10,37 @@
 |Beauty	                |Sephora	                      |[sephora.com](https://www.sephora.com/)                 |
 |Computer software	    |Openai	                        |[openai.com](https://openai.com/)                  |
 |Distance learning	    |Stackoverflow	                |[stackoverflow.com](https://stackoverflow.com/)           |
-|E-commerce	            |Onliner	                      |online.by                   |
-|Eduction	              |Youtube	                      |youtube.com                 |
-|Entertainment	        |Archive of our own	            |archiveofourown.org         |
-|Fashion	              |Shein	                        |shein.com                   |
-|Finance	              |Paypal	                        |paypal.com                  |
-|Food and Beverages	    |All recipes	                  |allrecipes.com              |
-|Games	                |Steam store	                  |store.steampowered.com      |
-|Health	                |National Institutes of Health	|nih.gov                     |
-|Information technology	|Wordpress	                    |wordpress.com               |
-|Insurance	            |Robobank	                      |rabobank.nl                 |
-|Investment	            |upstox	                        |upstox.com                  |
-|Jobs	                  |ADP	                          |adp.com                     |
-|Market research	      |Qualtrics	                    |qualtrics.com               |
-|Music	                |Genius	                        |genius.com                  |
-|News and Media	        |Wikipedia	                    |wikipedia.com               |
-|Online services	      |Google	                        |cloud.google.com            |
-|Real estate	          |redfin	                        |redfin.com                  |
-|Restaurants	          |Uber eats	                    |ubereats.com                |
-|Science	              |Sciencedirect	                |sciencedirect.com           |
-|Sports	                |Marca                        	|marca.com                   |
-|Telecom	              |Samsung                      	|samsung.com                 |
-|Transportation	        |Usps	                          |usps.com                    |
-|Travel and Tourism	    |Bahn	                          |bahn.de                     |
-|Vehicles	              |Av.by	                        |cars.av.by                  |
-|Wellness	              |Mayoclinic	                    |mayoclinic.org              |
+|E-commerce	            |Onliner	                      |[online.by](https://www.onliner.by/)                   |
+|Eduction	              |Youtube	                      |[youtube.com](https://www.youtube.com/)                |
+|Entertainment	        |Archive of our own	            |[archiveofourown.org](https://archiveofourown.org/)         |
+|Fashion	              |Shein	                        |[shein.com](https://www.shein.com.hk/)                   |
+|Finance	              |Paypal	                        |[paypal.com](https://www.paypal.com/c2/home)                  |
+|Food and Beverages	    |All recipes	                  |[allrecipes.com](https://www.allrecipes.com/)              |
+|Games	                |Steam store	                  |[store.steampowered.com](https://store.steampowered.com/)      |
+|Health	                |National Institutes of Health	|[nih.gov](https://www.nih.gov/)                     |
+|Information technology	|Wordpress	                    |[wordpress.com](https://worldpress.com/#/video-details)               |
+|Insurance	            |Robobank	                      |[rabobank.nl](https://www.rabobank.nl/particulieren)                 |
+|Investment	            |upstox	                        |[upstox.com](https://upstox.com/)                  |
+|Jobs	                  |ADP	                          |[adp.com](https://www.adp.com/)                     |
+|Market research	      |Qualtrics	                    |[qualtrics.com](https://www.qualtrics.com/)               |
+|Music	                |Genius	                        |[genius.com](https://genius.com/)                  |
+|News and Media	        |Wikipedia	                    |[wikipedia.com](https://www.wikipedia.org/)               |
+|Online services	      |Google	                        |[cloud.google.com](https://cloud.google.com/)            |
+|Real estate	          |redfin	                        |[redfin.com](https://www.redfin.com/)                  |
+|Restaurants	          |Uber eats	                    |[ubereats.com](https://www.ubereats.com/)                |
+|Science	              |Sciencedirect	                |[sciencedirect.com](https://www.sciencedirect.com/)           |
+|Sports	                |Marca                        	|[marca.com](https://www.marca.com/)                   |
+|Telecom	              |Samsung                      	|[samsung.com](https://www.samsung.com/cn/)                 |
+|Transportation	        |Usps	                          |[usps.com](https://www.usps.com/)                    |
+|Travel and Tourism	    |Bahn	                          |[bahn.de](https://www.bahn.de/)                     |
+|Vehicles	              |Av.by	                        |[cars.av.by](https://av.by/)                  |
+|Wellness	              |Mayoclinic	                    |[mayoclinic.org](https://www.mayoclinic.org/)              |
 
 
 The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
-## Offline Sequencer Results
+# Offline Sequencer Results
 
 |      Web app type      | Offline generated<br>sequences number | sampling<br>sequence number | legal<br>sequence number |
 | :--------------------: | :--------------------------------: | :----------------------: | :-------------------: |
@@ -80,7 +80,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-### Generated Sequences for 2 Online Sequencer
+# Generated Sequences for 2 Online Sequencer
 
 |web app type	|random deduplication<br>sequence number 	|random redundancy<br>sequence number	|coloring deduplication<br>sequence number|
 |:---------------------:|:---------:|:-------------:|:--:|
@@ -120,7 +120,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-#### Generated sequences number of each experiment
+# Generated Sequences Number of Each Experiment
 
 |     web app  type      | strategy type | median number | e1   | e2   | e3   | e4   | e5   |
 | :--------------------: | :-----------: | :-----------: | :--: | :---:|:----:|:----:|:----:|
@@ -191,7 +191,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-##### Random redundancy number for each experiment
+# Random Redundancy Number for Each Experiment
 
 | web app  type          | median number | e1  | e2 | e3  | e4  | e5  |
 | :--------------------: |:--------- --: | :--: | :--: | :--: | :--: | :--: |
@@ -230,7 +230,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-### There's a horizontal rule below this.
+# Covered Element Number of Each Experiment
 
 |     web app  type      | example action number | median number |  e1  |  e2  |  e3  |  e4  |  e5  |
 | :--------------------: | :-------------------: | :-----------: | :--: | :--: | :--: | :--: | :--: |
@@ -266,46 +266,6 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 |   Travel and Tourism   |           3           |      208      | 214  | 187  | 228  | 199  | 208  |
 |        Vehicles        |           4           |      190      | 143  | 205  | 190  | 172  | 222  |
 |        Wellness        |           3           |      79       |  41  |  79  |  79  |  79  |  79  |
-
-
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
