@@ -1,1 +1,0 @@
-click //div[@id="__next"]/div[3]/div/div/button

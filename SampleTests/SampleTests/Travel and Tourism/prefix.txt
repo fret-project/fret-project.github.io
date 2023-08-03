@@ -1,2 +1,0 @@
-click //div[@id='consent-layer']/div[2]/button[2]
-css:#consent-layer > div.consent-layer__btn-container > button.btn.btn--secondary.js-accept-essential-cookies

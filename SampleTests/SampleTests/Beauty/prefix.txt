@@ -1,1 +1,0 @@
-click //div[@id="modal0Dialog"]/div/div/div/div/div/div/p[3]/span/a
