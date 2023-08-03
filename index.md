@@ -122,7 +122,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 #### Generated sequences number of each experiment
 
-|     web app  type      | strategy type | medium number | s1   | s2   | s3   | s4   | s5   |
+|     web app  type      | strategy type | median number | e1   | e2   | e3   | e4   | e5   |
 | :--------------------: | ------------- | ------------- | ---- | ---- | ---- | ---- | ---- |
 |     Accommodation      | random        | 66            | 48   | 66   | 70   | 65   | 78   |
 |                        | coloring      | 63            | 57   | 74   | 63   | 62   | 75   |
@@ -191,11 +191,44 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-##### Header 5
+##### Random redundancy number for each experiment
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+| web app  type          | median number | s1r  | s2r  | s3r  | s4r  | s5r  |
+| ---------------------- | ------------- | ---- | ---- | ---- | ---- | ---- |
+| Accommodation          | 7             | 7    | 6    | 9    | 4    | 9    |
+| Advertising            | 113           | 88   | 148  | 50   | 142  | 113  |
+| Airlines               | 36            | 7    | 41   | 36   | 43   | 28   |
+| Banking                | 53            | 53   | 55   | 59   | 51   | 46   |
+| Beauty                 | 14            | 27   | 13   | 10   | 35   | 14   |
+| Computer software      | 34            | 34   | 29   | 36   | 42   | 23   |
+| Distance learning      | 57            | 64   | 57   | 59   | 24   | 35   |
+| E-commerce             | 29            | 17   | 43   | 29   | 25   | 48   |
+| Eduction               | 77            | 70   | 97   | 81   | 77   | 63   |
+| Entertainment          | 27            | 3    | 49   | 27   | 21   | 35   |
+| Fashion                | 14            | 46   | 14   | 12   | 10   | 17   |
+| Finance                | 23            | 23   | 41   | 14   | 13   | 26   |
+| Food and Beverages     | 84            | 46   | 84   | 93   | 73   | 92   |
+| Games                  | 6             | 6    | 8    | 2    | 9    | 1    |
+| Health                 | 45            | 9    | 53   | 45   | 41   | 62   |
+| Information technology | 8             | 7    | 11   | 8    | 8    | 12   |
+| Insurance              | 42            | 27   | 58   | 42   | 47   | 39   |
+| Investment             | 8             | 12   | 8    | 14   | 7    | 8    |
+| Jobs                   | 24            | 24   | 14   | 18   | 32   | 37   |
+| Market research        | 15            | 0    | 15   | 12   | 21   | 16   |
+| Music                  | 13            | 19   | 6    | 16   | 13   | 8    |
+| News and Media         | 38            | 38   | 43   | 36   | 42   | 30   |
+| Online services        | 19            | 15   | 19   | 22   | 14   | 23   |
+| Real estate            | 15            | 48   | 13   | 15   | 51   | 3    |
+| Restaurants            | 37            | 37   | 14   | 46   | 39   | 26   |
+| Science                | 20            | 20   | 23   | 16   | 18   | 32   |
+| Sports                 | 17            | 22   | 17   | 12   | 33   | 15   |
+| Telecom                | 12            | 2    | 21   | 12   | 19   | 8    |
+| Transportation         | 14            | 11   | 14   | 17   | 5    | 18   |
+| Travel and Tourism     | 39            | 48   | 39   | 33   | 49   | 27   |
+| Vehicles               | 16            | 8    | 29   | 16   | 19   | 10   |
+| Wellness               | 27            | 27   | 27   | 41   | 34   | 25   |
+
+
 
 ###### Header 6
 
