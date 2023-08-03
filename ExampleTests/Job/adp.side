@@ -1,0 +1,86 @@
+{
+  "id": "ba0ed875-cca2-4ded-8a4b-b58149f05c4d",
+  "version": "2.0",
+  "name": "adp",
+  "url": "https://www.adp.com",
+  "tests": [{
+    "id": "3d8b0600-e8e7-4352-9834-ef6e042a777d",
+    "name": "1",
+    "commands": [{
+      "id": "d1682755-7c61-4ce2-a679-71bcb944afd8",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ac71e7b9-0669-48e3-940f-505033cf107b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1420x794",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "497e3b59-8b99-4f78-8291-b37021717a7a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//nav/ul/li[3]/a",
+      "targets": [
+        ["linkText=Resources", "linkText"],
+        ["css=.js-section-resource", "css:finder"],
+        ["xpath=//a[contains(text(),'Resources')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/resources.aspx')]", "xpath:href"],
+        ["xpath=//nav/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Resources')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "72e2f753-f6df-4d4d-a232-cf4958cf2724",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//li[4]/div/ul/li[3]/a",
+      "targets": [
+        ["linkText=Midsized & Enterprise Business", "linkText"],
+        ["css=.active li:nth-child(3) > .level-2", "css:finder"],
+        ["xpath=//a[contains(text(),'Midsized & Enterprise Business')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/resources/midsized-enterprise.aspx')]", "xpath:href"],
+        ["xpath=//li[3]/div/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Midsized & Enterprise Business')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7f076ec-9090-4685-8c39-b4628ab11b05",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ul[@id='panel_54bc26c634c34d259dfd5c1791696b91']/li[2]/ul/li[3]/a/span",
+      "targets": [
+        ["css=#panel_54bc26c634c34d259dfd5c1791696b91 li:nth-child(3) span", "css:finder"],
+        ["xpath=//ul[@id='panel_54bc26c634c34d259dfd5c1791696b91']/li[2]/ul/li[3]/a/span", "xpath:idRelative"],
+        ["xpath=//li[3]/div/ul/li[3]/ul/li[2]/ul/li[3]/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d47761da-fe40-4c0d-aa98-daa7ee5acb18",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='ADP_24d20b7482fe44a0b2c97eaafe265619']/section/div/div[2]/div/img",
+      "targets": [
+        ["css=.card-insight > .card-img", "css:finder"],
+        ["xpath=//img[@alt='Corporate Payroll Services ']", "xpath:img"],
+        ["xpath=//div[@id='ADP_24d20b7482fe44a0b2c97eaafe265619']/section/div/div[2]/div/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "40866537-fdb3-44a1-9205-1f2a014d934d",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3d8b0600-e8e7-4352-9834-ef6e042a777d"]
+  }],
+  "urls": ["https://www.adp.com/"],
+  "plugins": []
+}

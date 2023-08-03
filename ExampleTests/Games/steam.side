@@ -1,0 +1,84 @@
+{
+  "id": "f576541d-fa77-491a-bea9-e4cdc26df0ae",
+  "version": "2.0",
+  "name": "steam",
+  "url": "https://store.steampowered.com",
+  "tests": [{
+    "id": "8c766772-ce31-4463-9435-1fd6dd35926e",
+    "name": "Untitled",
+    "commands": [{
+      "id": "5359078a-5ab3-4c6d-b529-f8ba6f3a9e76",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "17964338-059e-4c40-8610-e0d5896aab1f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x811",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "747f9f5b-a696-404c-9e73-478ad2e1c857",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[6]/div/div/div/div[2]/a[3]",
+      "targets": [
+        ["linkText=休闲", "linkText"],
+        ["css=.home_page_gutter_block > .gutter_item:nth-child(4)", "css:finder"],
+        ["xpath=//a[contains(text(),'休闲')]", "xpath:link"],
+        ["xpath=//div[@id='responsive_page_template_content']/div/div/div/div[2]/a[3]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://store.steampowered.com/tags/zh-cn/%E4%BC%91%E9%97%B2/?snr=1_4_4__125')]", "xpath:href"],
+        ["xpath=//div[6]/div/div/div/div[2]/a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'休闲')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c7d27056-ee52-4436-8296-974914eac116",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1671)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f0c065bc-fbc0-4f8f-8b2e-ad7932960677",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[2]/div/div/div/div/a/div/div[2]/img",
+      "targets": [
+        ["css=.salepreviewwidgets_SaleItemBrowserRow_y9MSd:nth-child(2) .salepreviewwidgets_StoreSaleWidgetHalfLeft_2Va3O .salepreviewwidgets_CapsuleImage_cODQh", "css:finder"],
+        ["xpath=(//img[@alt='潜水员戴夫 DAVE THE DIVER'])[3]", "xpath:img"],
+        ["xpath=//div[@id='SaleSection_13268']/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div/div/div/a/div/div[2]/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/a/div/div[2]/img", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win9823",
+      "windowTimeout": 2000
+    }, {
+      "id": "15191b59-3777-4f01-9292-a825cce5a543",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[6]/div/a/span",
+      "targets": [
+        ["css=#RecommendationVoteUpBtnsummary141517558 > span", "css:finder"],
+        ["xpath=//a[@id='RecommendationVoteUpBtnsummary141517558']/span", "xpath:idRelative"],
+        ["xpath=//div[6]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,' 是')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "07aa4628-4202-4432-a362-e835fa85dcbf",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8c766772-ce31-4463-9435-1fd6dd35926e"]
+  }],
+  "urls": ["https://store.steampowered.com/"],
+  "plugins": []
+}

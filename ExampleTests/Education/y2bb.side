@@ -1,0 +1,70 @@
+{
+  "id": "3cc7ad49-2dd7-40be-849f-504640c0a154",
+  "version": "2.0",
+  "name": "y2bb",
+  "url": "https://www.youtube.com",
+  "tests": [{
+    "id": "d6ad6d30-5060-48d2-bb54-8e1c2ab55f89",
+    "name": "t1",
+    "commands": [{
+      "id": "9e0f6499-a63f-4e3b-bd72-0aa200c9a69a",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9d6c0a76-ff66-4cc2-b20d-796514ba2040",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x814",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "759ff2c3-0624-4a74-a404-8192c51f51d8",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//iron-selector[@id='chips']/yt-chip-cloud-chip-renderer[5]",
+      "targets": [
+        ["css=.style-scope:nth-child(5)", "css:finder"],
+        ["xpath=(//yt-formatted-string[@id='text'])[5]", "xpath:attributes"],
+        ["xpath=//iron-selector[@id='chips']/yt-chip-cloud-chip-renderer[5]", "xpath:idRelative"],
+        ["xpath=//yt-chip-cloud-chip-renderer[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f9d280b9-11ab-4ff5-ba1b-57f1d31c962c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='thumbnail']/yt-image/img",
+      "targets": [
+        ["id=thumbnail-container", "id"],
+        ["css=#thumbnail-container", "css:finder"],
+        ["xpath=//a[@id='thumbnail']/yt-image/img", "xpath:idRelative"],
+        ["xpath=//div[2]/a/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fe4bb377-2e3f-4be5-abf7-094d91969cdc",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='top-level-buttons-computed']/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]",
+      "targets": [
+        ["css=#actions-inner > #menu #top-level-buttons-computed > .style-scope > yt-button-shape .yt-spec-touch-feedback-shape__fill", "css:finder"],
+        ["xpath=//div[@id='top-level-buttons-computed']/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]", "xpath:idRelative"],
+        ["xpath=//ytd-menu-renderer/div/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "29e100c4-2b19-4a7a-8abf-ad6d5ed3b84c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d6ad6d30-5060-48d2-bb54-8e1c2ab55f89"]
+  }],
+  "urls": ["https://www.youtube.com/"],
+  "plugins": []
+}

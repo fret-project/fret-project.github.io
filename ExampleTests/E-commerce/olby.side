@@ -1,0 +1,73 @@
+{
+  "id": "513f1697-ad8d-4631-b804-f5fd60354783",
+  "version": "2.0",
+  "name": "olby",
+  "url": "https://www.onliner.by",
+  "tests": [{
+    "id": "65726a13-27ea-4e3f-a723-e6d25286a564",
+    "name": "1",
+    "commands": [{
+      "id": "40d757b6-2332-4b42-b4c4-9fd95ecd9e79",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1027e65d-1d70-4af4-8bdd-aafe4cf7dad9",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1420x794",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "28c1311e-0a8e-4102-99ed-d442fafc6e31",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span",
+      "targets": [
+        ["css=.b-main-navigation__item_active .b-main-navigation__text", "css:finder"],
+        ["xpath=//div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/a/span", "xpath:idRelative"],
+        ["xpath=//nav/ul/li[3]/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f8df958-1c70-4487-9ffa-ec198ba285ad",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/div/div/div/div/div/div[2]/div/div[4]/ul/li[5]/a/span",
+      "targets": [
+        ["css=.b-main-navigation__dropdown-column:nth-child(4) .b-main-navigation__dropdown-advert-item:nth-child(5) .b-main-navigation__dropdown-advert-sign", "css:finder"],
+        ["xpath=//div[@id='container']/div/div/header/div[2]/div/nav/ul/li[3]/div/div/div/div/div/div[2]/div/div[4]/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/ul/li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Toyota')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "aeef3bfd-4ce1-43fe-90a3-782677387e48",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='container']/div/div/div/div/div/div[2]/div/div/div/div[3]/div/div[3]/div/a/picture/img",
+      "targets": [
+        ["css=.vehicle-form__slider-item:nth-child(3) img", "css:finder"],
+        ["xpath=//img[contains(@src,'https://content.onliner.by/automarket/promo_blocks/136/228x124/ef597f00d2f78f3567d9f959b797e6e2.jpeg')]", "xpath:img"],
+        ["xpath=//div[@id='container']/div/div/div/div/div/div[2]/div/div/div/div[3]/div/div[3]/div/a/picture/img", "xpath:idRelative"],
+        ["xpath=//div[3]/div/a/picture/img", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win58",
+      "windowTimeout": 2000
+    }]
+  }],
+  "suites": [{
+    "id": "8e0bd0d8-7936-4dee-b100-22d395bf1ed8",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["65726a13-27ea-4e3f-a723-e6d25286a564"]
+  }],
+  "urls": ["https://www.onliner.by/"],
+  "plugins": []
+}

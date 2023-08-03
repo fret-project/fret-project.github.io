@@ -1,0 +1,96 @@
+{
+  "id": "34ad76f5-8c09-4c73-8c3c-f4e2d4e325a9",
+  "version": "2.0",
+  "name": "alre",
+  "url": "https://www.allrecipes.com",
+  "tests": [{
+    "id": "276559f0-decb-4a54-adf3-ebfe4d55d35f",
+    "name": "l",
+    "commands": [{
+      "id": "b9416305-46af-42bf-88c0-4ad92e85bc0c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5cb1cc26-eda1-4aaf-80e9-9ed1b0c4f1dc",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x812",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dbd99289-4611-4268-9571-0f4ecdaf3657",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//nav[@id='header-nav_1-0']/div/ul/li[4]",
+      "targets": [
+        ["css=.header-nav__list-item:nth-child(4)", "css:finder"],
+        ["xpath=//nav[@id='header-nav_1-0']/div/ul/li[4]", "xpath:idRelative"],
+        ["xpath=//header/nav/div/ul/li[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "68f9ed4f-45ba-40ac-a233-d458a13cf3b2",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//nav[@id='header-nav_1-0']/div/ul/li[4]/ul/li[2]",
+      "targets": [
+        ["linkText=Graduations", "linkText"],
+        ["css=.header-nav__list-item:nth-child(4) .header-nav__sublist-item:nth-child(2) > a", "css:finder"],
+        ["xpath=//nav[@id='header-nav_1-0']/div/ul/li[4]/ul/li[2]", "xpath:idRelative"],
+        ["xpath=//li[4]/ul/li[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4caa2d79-1b88-49f9-81fd-ade7cdaaff30",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1216)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5c1d7566-559f-478a-8654-74d391a9bfa1",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='mntl-card-list-items_2-0-5']/div[2]/span",
+      "targets": [
+        ["css=#mntl-card-list-items_2-0-5 .card__title", "css:finder"],
+        ["xpath=//a[@id='mntl-card-list-items_2-0-5']/div[2]/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/a[2]/div[2]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Best Ever Jalapeño Poppers')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea3e8400-786b-4ba1-828d-8dcc530c8ac6",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,3674.5)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bc4f6901-b384-4975-a4b3-14f13b41538c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//p[@id='mntl-sc-block_1-0-22']",
+      "targets": [
+        ["linkText=classic appetizers", "linkText"],
+        ["css=#mntl-sc-block_1-0-22 ", "css:finder"],
+        ["xpath=//p[@id='mntl-sc-block_1-0-22']", "xpath:idRelative"],
+        ["xpath=//p[8]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4bb013cc-1d9e-44d4-b13b-fbc9a62f9781",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["276559f0-decb-4a54-adf3-ebfe4d55d35f"]
+  }],
+  "urls": ["https://www.allrecipes.com/"],
+  "plugins": []
+}
