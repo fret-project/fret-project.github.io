@@ -39,7 +39,7 @@
 |Wellness	              |Mayoclinic	                    |[mayoclinic.org](https://www.mayoclinic.org/)              |
 
 
-The sample test scripts we use are put on [./SampleTests](./SampleTests)
+The example test scripts we use are put on [./ExampleTests](https://github.com/fret-project/fret-project.github.io/tree/master/ExampleTests)
 
 
 ## Offline Sequencer Results
