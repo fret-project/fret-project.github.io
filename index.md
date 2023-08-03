@@ -2,14 +2,14 @@
 # Target Websites
 
 | Web app type          | Web name                      | URL                        |
-|:----------------------|:------------------------------|:---------------------------|
-|Accommodation	        |Agoda	                        |agoda.cn                    |
-|Advertising	          |Doubleclick	                  |marketingplatform.google.com|
-|Airlines	              |Ryanair	                      |ryanair.com                 |
-|Banking	              |Chase	                        |chase.com                   |
-|Beauty	                |Sephora	                      |sephora.com                 |
-|Computer software	    |Openai	                        |openai.com                  |
-|Distance learning	    |Stackoverflow	                |stackoverflow.com           |
+|:---------------------:|:-----------------------------:|:--------------------------:|
+|Accommodation	        |Agoda	                        |[agoda.cn](https://www.agoda.cn/zh-cn/)                    |
+|Advertising	          |Doubleclick	                  |[marketingplatform.google.com](https://marketingplatform.google.com/about/)|
+|Airlines	              |Ryanair	                      |[ryanair.com](https://www.ryanair.com/cn/zh)                 |
+|Banking	              |Chase	                        |[chase.com](https://www.chase.com/)                   |
+|Beauty	                |Sephora	                      |[sephora.com](https://www.sephora.com/)                 |
+|Computer software	    |Openai	                        |[openai.com](https://openai.com/)                  |
+|Distance learning	    |Stackoverflow	                |[stackoverflow.com](https://stackoverflow.com/)           |
 |E-commerce	            |Onliner	                      |online.by                   |
 |Eduction	              |Youtube	                      |youtube.com                 |
 |Entertainment	        |Archive of our own	            |archiveofourown.org         |
@@ -83,7 +83,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 ### Generated Sequences for 2 Online Sequencer
 
 |web app type	|random deduplication<br>sequence number 	|random redundancy<br>sequence number	|coloring deduplication<br>sequence number|
-|:----------------------|:----------|:--------------|:---|
+|:---------------------:|:---------:|:-------------:|:--:|
 |Accommodation	|66	|7	|63|
 |Advertising	|296	|113	|372|
 |Airlines	|92	|36	|109|
@@ -123,7 +123,7 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 #### Generated sequences number of each experiment
 
 |     web app  type      | strategy type | median number | e1   | e2   | e3   | e4   | e5   |
-| :--------------------: | ------------- | ------------- | ---- | ---- | ---- | ---- | ---- |
+| :--------------------: | :-----------: | :-----------: | :--: | :---:|:----:|:----:|:----:|
 |     Accommodation      | random        | 66            | 48   | 66   | 70   | 65   | 78   |
 |                        | coloring      | 63            | 57   | 74   | 63   | 62   | 75   |
 |      Advertising       | random        | 296           | 296  | 332  | 276  | 324  | 262  |
@@ -193,8 +193,8 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 ##### Random redundancy number for each experiment
 
-| web app  type          | median number | s1r  | s2r  | s3r  | s4r  | s5r  |
-| ---------------------- | ------------- | ---- | ---- | ---- | ---- | ---- |
+| web app  type          | median number | e1  | e2 | e3  | e4  | e5  |
+| :--------------------: |:--------- --: | :--: | :--: | :--: | :--: | :--: |
 | Accommodation          | 7             | 7    | 6    | 9    | 4    | 9    |
 | Advertising            | 113           | 88   | 148  | 50   | 142  | 113  |
 | Airlines               | 36            | 7    | 41   | 36   | 43   | 28   |
@@ -230,18 +230,44 @@ The sample test scripts we use are put on [./SampleTests](./SampleTests)
 
 
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 ### There's a horizontal rule below this.
 
-* * *
+|     web app  type      | example action number | median number |  e1  |  e2  |  e3  |  e4  |  e5  |
+| :--------------------: | :-------------------: | :-----------: | :--: | :--: | :--: | :--: | :--: |
+|     Accommodation      |           5           |      156      | 127  | 168  | 156  | 153  | 166  |
+|      Advertising       |           4           |      413      | 424  | 349  | 327  | 417  | 413  |
+|        Airlines        |           6           |      135      | 160  | 133  | 135  | 143  | 127  |
+|        Banking         |           3           |      128      | 149  | 117  | 132  | 128  | 119  |
+|         Beauty         |           3           |      247      | 279  | 269  | 245  | 243  | 247  |
+|   Computer software    |           4           |      218      | 217  | 218  | 227  | 268  | 194  |
+|   Distance learning    |           4           |      143      | 156  | 133  | 143  | 129  | 143  |
+|       E-commerce       |           3           |      91       |  51  |  91  | 104  |  81  | 105  |
+|        Eduction        |           4           |      234      | 219  | 261  | 223  | 234  | 237  |
+|     Entertainment      |           4           |      396      | 387  | 396  | 400  | 477  | 350  |
+|        Fashion         |           4           |      218      | 517  | 218  | 198  | 185  | 233  |
+|        Finance         |           3           |      225      | 221  | 226  | 225  | 237  | 224  |
+|   Food and Beverages   |           4           |      362      | 247  | 362  | 378  | 356  | 384  |
+|         Games          |           3           |      88       | 122  |  88  |  83  |  78  |  95  |
+|         Health         |           3           |      127      | 122  | 159  | 127  | 127  | 127  |
+| Information technology |           3           |      26       |  26  |  28  |  24  |  26  |  33  |
+|       Insurance        |           4           |      341      | 317  | 343  | 341  | 285  | 354  |
+|       Investment       |           3           |      57       |  65  |  56  |  57  |  63  |  57  |
+|          Jobs          |           4           |      199      | 271  | 195  | 181  | 199  | 257  |
+|    Market research     |           3           |      188      | 205  | 191  | 183  | 171  | 188  |
+|         Music          |           3           |      119      | 102  | 119  | 122  | 126  |  93  |
+|     News and Media     |           4           |      256      | 256  | 231  | 247  | 274  | 281  |
+|    Online services     |           3           |      121      | 141  | 112  | 119  | 139  | 121  |
+|      Real estate       |           4           |      232      | 203  | 232  | 228  | 248  | 242  |
+|      Restaurants       |           3           |      231      | 243  | 171  | 247  | 231  | 195  |
+|        Science         |           4           |      68       |  71  |  68  |  68  |  68  |  68  |
+|         Sports         |           4           |      176      | 150  | 176  | 184  | 154  | 188  |
+|        Telecom         |           4           |      148      | 148  | 168  | 111  | 154  | 115  |
+|     Transportation     |           3           |      148      | 167  | 148  | 137  | 174  | 103  |
+|   Travel and Tourism   |           3           |      208      | 214  | 187  | 228  | 199  | 208  |
+|        Vehicles        |           4           |      190      | 143  | 205  | 190  | 172  | 222  |
+|        Wellness        |           3           |      79       |  41  |  79  |  79  |  79  |  79  |
+
+
 
 ### Here is an unordered list:
 
