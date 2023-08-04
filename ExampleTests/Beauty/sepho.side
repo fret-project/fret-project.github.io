@@ -40,10 +40,10 @@
       "id": "964b55ea-cbcc-40d7-8848-739f4863f12d",
       "comment": "",
       "command": "click",
-      "target": "xpath=//header/div/div[2]/div",
+      "target": "xpath=//div[@id="top_nav_drop_5"]/div/div/div[4]/ul[1]/li[1]/a",
       "targets": [
         ["css=.css-9qioup", "css:finder"],
-        ["xpath=//header/div/div[2]/div", "xpath:position"]
+        ["xpath=//div[@id="top_nav_drop_5"]/div/div/div[4]/ul[1]/li[1]/a", "xpath:position"]
       ],
       "value": ""
     }, {
