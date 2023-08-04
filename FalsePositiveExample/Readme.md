@@ -10,4 +10,6 @@ The red box covered the example element Fret use (for some web pages, the exampl
 
 The green box covered false positive elements.
 
+The main reason why our similar search algorithm has a low false positive rate is the good standard of each web app.
+
  
