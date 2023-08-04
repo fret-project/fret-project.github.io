@@ -1,0 +1,1079 @@
+[Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[6]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[4]/a/span/span'};
+Click //div[@id="products-dall-e-2"]/div[1]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[2]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[1]/a[1]/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="products-gpt-4"]/div[1]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[5]/a'};
+Click //div[@id="customer-stories-index"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[5]/ul/li[3]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[5]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[5]/a'};
+Click //div[@id="customer-stories-index"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[2]/a'};
+Click //div[@id="blog-index"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[1]/a[2]/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a'};
+Click //div[@id="landings-security"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[2]/ul/li[3]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[4]/a/span/span'};
+Click //div[@id="products-dall-e-2"]/div[1]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[5]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+Click //div[@id="landings-careers"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[3]/a'};
+Click //div[@id="products-gpt-4"]/div[1]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[6]/a'};
+Click //div[@id="landings-safety-standards"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+Click //div[@id="landings-careers"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[6]/a'};
+Click //div[@id="landings-safety-standards"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //ul[@id='navList1']/li[3]/a/span/span'};
+Click //div[@id='content']/div[2]/div/div/div/div/div/ul/li[2]/a'};
+Click //div[@id='products-gpt-4']/div[2]/div/div/div[2]/div/div[2]/ul/li[3]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[6]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[3]/a/span/span'};
+Click //div[@id="products-gpt-4"]/div[1]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/ul/li[1]/a'};
+Click //div[@id="landings-overview"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[2]/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+Click //div[@id="landings-careers"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[2]/ul/li[2]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[3]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[1]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[4]/a/span/span'};
+Click //div[@id="products-dall-e-2"]/div[1]/div[1]/div[2]/div/div/div[2]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[6]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a'};
+Click //div[@id="landings-security"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[2]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a'};
+Click //div[@id="landings-security"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[3]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-product"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[6]/a'};
+Click //div[@id="landings-safety-standards"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[2]/div/div/div/div[1]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[3]/a'};
+Click //div[@id="landings-careers"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a/span/span'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[4]/a'};
+Click //div[@id="landings-charter"]/div[1]/div/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[7]/a/span/span'};
+Click //div[@id="landings-pricing"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[5]/a'};
+Click //div[@id="customer-stories-index"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[5]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[1]/div/div/div/button/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[1]/div[2]/ul/li[5]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //button[@id='navListLabel1']/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[1]/div/div/a'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[5]/ul/li[4]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[2]/div[2]/div/button/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[4]/div/div[1]/div[1]/div[3]/ul/li[7]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[1]/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/ul/li[2]/a'};
+Click //div[@id="blog-index"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+Click //div[@id="landings-about"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[1]/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[1]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[3]/div/nav/ul/li[2]/a'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/button/span/span/span'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[2]/ul/li[1]/a/span/span'};
+Click //div[@id="home"]/div[1]/div[2]/div[2]/div/div/div/ul/li/a/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[5]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[1]/a'};
+Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+-------------
+, Click //div[@id="home"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[4]/a/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/button/span/span/span'};
+Click //div[@id="landings-safety"]/div[1]/div[1]/div[2]/header/div[1]/div/div[2]/nav/ul/li[3]/ul/li[1]/a'};
+-------------
+]

@@ -1,0 +1,1053 @@
+[MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[2]/senses-snippet/senses-snippet-default/div/div[2]/div/div[2]/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[12]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[2]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[5]/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[7]/div/sfc-link[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[4]/section/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[1]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[3]/section/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[2]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[10]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[4]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[5]/senses-expandable-info-blocks/senses-expandable-info-blocks-default/div/div/div/div/div/article[1]/senses-block-content/div/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[2]/senses-expandable-info-blocks/senses-expandable-info-blocks-default/div/div/div/div/div/article[1]/senses-block-content/div/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[4]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[2]/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[7]/div/sfc-link[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[5]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[2]/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[2]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[3]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[1]/section[1]/feature-intro/feature-intro-interactive/section/div/div[2]/div/senses-search-bar/senses-search-bar-embedded/div[2]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[4]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/feature-multi-media-block/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[1]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[4]/div/sfc-link[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[2]/senses-expandable-info-blocks/senses-expandable-info-blocks-default/div/div/div/div/div/article[1]/senses-block-content/div/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[2]/section[2]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[2]/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group[1]/div/div/senses-navigation-card[5]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[14]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[6]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[1]/senses-content-block/section[10]/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[6]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[7]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[6]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[4]/section/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[1]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[1]/div/senses-content-block-paragraph/div/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[1]/div/senses-content-block-paragraph[2]/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[5]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-content-block/section[3]/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[11]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[4]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[2]/senses-image-breakout/div/div/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[6]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[1]/senses-content-block/section[6]/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[1]/senses-snippet/senses-snippet-default/div/div[2]/div/div[2]/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[2]/senses-expandable-info-blocks/senses-expandable-info-blocks-default/div/div/div/div/div/article[1]/senses-block-content/div/div/div[2]/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[4]/senses-content-block/section/div[2]/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[7]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[13]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[1]/senses-snippet/senses-snippet-default/div/div[2]/div/div[2]/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[10]/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[5]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[15]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-content-block/section[2]/div/senses-content-block-paragraph/div/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[2]/section/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[6]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[2]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[5]/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[1]/div/senses-content-block-paragraph/div/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[5]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[2]/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[1]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[9]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[17]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[4]/section/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[2]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[9]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[2]/section[3]/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[2]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/feature-multi-media-block/div/div/senses-media-cards/div/senses-media-cards-carousel/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[5]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[18]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[5]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[3]/section[1]/senses-product-comparison/div/senses-product-comparison-showcase/div[4]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[2]/div/senses-content-block-paragraph/div/div/sfc-link[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[2]/section[1]/senses-super-usp-block/div[3]/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[8]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[7]/senses-collapsible-list/senses-collapsible-list-default/div/div/div/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[16]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[9]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[8]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[9]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[5]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[4]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[8]/div/sfc-link[4]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[4]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[9]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[3]/ul/li[4]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[4]/section/senses-media-cards/div/senses-media-cards-full-image-carousel/div/div[2]/sfc-carousel/div/div[2]/sfc-carousel-item[2]/senses-media-card/senses-media-card-full-image/a/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[4]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[3]/section/senses-product-comparison/div/senses-product-comparison-showcase/div[3]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[9]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[7]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[4]/ul/li[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[6]/a'};
+Click //div[@id="content"]/page-product-hub-landing/feature-entities-renderer[3]/section/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[3]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[1]/senses-related-links/div/senses-related-link-list[1]/div/sfc-link[5]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[8]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[1]/ul/li[9]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[8]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[3]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[5]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[2]/section/senses-navigation-cards/senses-navigation-cards-default/div/div/senses-navigation-cards-group/div/div/senses-navigation-card[3]/a/div/div[2]/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+-------------
+, MouseOver //a[contains(text(),'Service')]'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[1]/ul/li[3]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[3]/senses-content-block/section[2]/div/senses-content-block-paragraph/div/div/sfc-link[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[1]/ul/li[1]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[4]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[1]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[1]/div[2]/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[3]/a'};
+Click //div[@id="content"]/page-theme-hub-landing/feature-entities-renderer[5]/section[5]/senses-snippet/senses-snippet-default/div/div[2]/div/div[2]/div/sfc-link/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[2]/a'};
+Click //div[@id="content"]/page-default/feature-entities-renderer[2]/section[5]/senses-content-block/section/div/senses-content-block-paragraph/div/div/sfc-link/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[2]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+, MouseOver //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/feature-main-navigation-items/div/div/div[2]/ul/li[7]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+Click //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[2]/senses-media-card-default/div/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[3]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[3]/feature-main-navigation-items/div/div/div[3]/ul/li[2]/a'};
+-------------
+, MouseOver //div[@id="content"]/page-home/feature-entities-renderer[2]/section[2]/senses-media-cards/div/senses-media-cards-default/div/div/div[2]/senses-media-card[1]/senses-media-card-default/div/a'};
+Click //nav[@id="main_navigation"]/ul/li[1]/a'};
+Click //div[@id="content"]/page-home/div/feature-entities-renderer/section[2]/senses-related-links/div/senses-related-link-list[2]/div/sfc-link[2]/a'};
+-------------
+]

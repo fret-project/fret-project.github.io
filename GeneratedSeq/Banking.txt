@@ -1,0 +1,402 @@
+[Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[5]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[6]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[6]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click //div[@id="product-5"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click //div[@id="contact-2"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/button'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click //div[@id="contact-2"]/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="contact-2"]/ul/li[3]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-5"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[11]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click //div[@id="product-5"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[7]/a'};
+Click //div[@id="product-7"]/ul/li[3]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[10]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[6]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[8]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[7]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[6]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[9]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[4]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[4]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[6]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[4]/a'};
+Click //div[@id="product-2"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[9]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[4]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-1"]/ul/li[2]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-5"]/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[6]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click //div[@id="contact-2"]/ul/li[3]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click //div[@id="product-5"]/ul/li[4]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[2]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[7]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-7"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[7]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[7]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[6]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[5]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click //div[@id="product-5"]/ul/li[5]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[4]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[2]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[7]/a'};
+Click //div[@id="product-7"]/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[1]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[3]/a'};
+Click //div[@id="product-2"]/ul/li[2]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[2]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[7]/a'};
+Click //div[@id="product-7"]/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+Click //div[@id="product-5"]/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[4]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[5]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[5]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[4]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-5"]/ul/li[4]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[1]/a'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[4]/div/a[5]'};
+-------------
+, Click //section[3]/section/nav/ul/li[2]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[1]/nav/ul/li[3]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[3]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[4]/div/a[2]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[3]/a'};
+Click /html/body/div/div[5]/div/div/header/section[2]/section[1]/section[2]/nav/ul/li[1]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[8]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[5]/a'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[1]/a'};
+Click //div[@id="product-1"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[1]/div[1]/div/a[10]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+Click //div[@id="product-2"]/ul/li[1]/a'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/button'};
+Click //div[@id="nav-bar"]/div/div[3]/div[1]/div/a[3]'};
+-------------
+, Click /html/body/div/div[5]/div/div/header/section[2]/section[3]/section/nav/ul/li[2]/a'};
+-------------
+]

@@ -1,0 +1,160 @@
+[MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-header-tools-calculators"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[4]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-resources-subnav"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[2]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[3]/div/ul/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[3]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-invest-tools"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[4]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[4]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[3]/div/ul/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-resources-subnav"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-invest-tools"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[2]/div/ul/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-header-tools-calculators"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-trade-trade"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[1]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[3]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-holidays"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[1]/div/ul/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-help-center-subnav"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-help-center-subnav"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-trade-trade"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-invest-tools"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-header-tools-calculators"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-header-tools-calculators"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-invest-tools"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-uplearn-banner-subnav"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[10]/a'};
+Click //ul[@id="menu-about-us"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-holidays"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[3]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-trade-trade"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[12]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[3]/div/ul/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-holidays"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[1]/div/ul/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[3]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[11]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="menu-holidays"]/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[4]/ul/li[3]/div/ul/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+Click //ul[@id="menu-trade-trade"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[1]/div/ul/li[3]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-help-center-subnav"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[2]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-resources-subnav"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[10]/a'};
+Click //ul[@id="menu-about-us"]/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-uplearn-banner-subnav"]/li[2]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-help-center-subnav"]/li[3]/a'};
+-------------
+, MouseOver //li[@id='mega-menu-item-24746']/a'};
+Click //li[@id='menu-item-24730']/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[3]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[3]/ul/li[4]/div/ul/li[1]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="menu-header-resources-subnav"]/li[4]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[10]/a'};
+-------------
+, MouseOver //ul[@id="mega-menu-primary_navigation"]/li[7]/a'};
+Click //ul[@id="mega-menu-primary_navigation"]/li[7]/ul/li[2]/div/ul/li[4]/a'};
+-------------
+]

@@ -1,0 +1,223 @@
+[Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[2]/div[4]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[2]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[6]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[5]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[4]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[1]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[2]/div[3]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[1]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[7]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[2]/div[4]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[4]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[2]/div[4]/div[1]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[2]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[2]/div[3]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[2]/div[4]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[1]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[4]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[2]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[3]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[3]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[3]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[1]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[2]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[7]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[3]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[5]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[2]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[2]/div[3]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[2]'};
+Click //div[@id='LanguageFilter_Container']/div[3]/span/span/span'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[2]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[4]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[4]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[3]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[3]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[2]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[5]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[6]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[7]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[4]/a[2]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[3]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[2]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[4]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[1]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[2]/div[3]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[1]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[2]/div[2]/div[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[5]'};
+Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[3]'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[5]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[2]/div[2]/div[4]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[2]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[5]/div[2]/div[3]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="additional_search_options"]/div[1]/div[2]/div[4]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[4]/div[1]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+, Click //div[@id="responsive_page_template_content"]/div[1]/div[1]/div/div[1]/div[6]/a[1]'};
+Click //div[@id="LanguageFilter_Container"]/div[3]/span/span/span[1]'};
+Click //div[@id="search_resultsRows"]/a[6]/div[2]/div[2]'};
+Click //div[@id='recommended_block_content']/a[2]/img'};
+-------------
+]

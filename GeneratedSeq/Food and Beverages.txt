@@ -1,0 +1,1017 @@
+[MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[1]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[6]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-2"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[8]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[6]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-4"]/a[5]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[3]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[5]/div[2]/span'};
+Click //div[@id="article-intro_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[7]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[4]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-9"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="three-post__inner_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="card-list_2-0"]/a[2]/div[2]/span'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[9]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[8]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[6]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[6]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-10"]/p'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[11]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[4]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-19"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[11]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[1]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="card-list_2-0"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[5]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-4"]/a[4]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[1]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[7]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[6]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[8]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[8]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="card-list_2-0"]/a[4]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[7]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[7]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[3]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[7]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-15"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[12]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[6]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="card-list_2-0"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[3]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-6"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[7]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[10]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[4]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[5]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[3]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[7]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[3]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[6]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="mntl-taxonomysc-content_1-0"]/section/a/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[23]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[10]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[6]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="three-post__inner_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[5]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[8]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="three-post__inner_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[7]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[15]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[1]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[7]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[8]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="three-post__inner_1-0"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[5]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-19"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[10]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0"]/a[10]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[9]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-1"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0"]/a[9]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[8]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[9]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[11]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-7"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[9]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[5]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="card-list_2-0"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[2]'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[5]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[5]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[20]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[5]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[11]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[3]'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0"]/a[5]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[5]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-3"]/a[5]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[8]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-3"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[10]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-11"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[9]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="mntl-taxonomysc-content_1-0"]/section/a/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-15"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[3]'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-4"]/a[7]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[1]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="mntl-taxonomysc-content_1-0"]/section/a/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-2"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="three-post__inner_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="card-list_2-0"]/a[4]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[14]'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-2"]/a[12]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[7]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[10]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[1]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[9]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[6]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="mntl-taxonomysc-content_1-0"]/section/a/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[8]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="card-list_2-0"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[10]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[1]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[10]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[7]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="article-intro_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[11]/div[2]/span'};
+Click //div[@id="article-intro_1-0"]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-4"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[6]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[9]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver //div[@id="three-post__inner_1-0"]/a[3]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[5]/div[2]/span'};
+Click //div[@id="article-intro_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="card-list_2-0"]/a[3]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[6]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="three-post__inner_1-0"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[10]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[9]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[9]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[6]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-9"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[9]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[10]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[2]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[12]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[3]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[3]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[4]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[8]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[6]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-22"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[7]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[12]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[4]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/p[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[6]/div[2]/span'};
+Click //div[@id="mntl-sc-page_1-0"]/p[6]'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[4]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[10]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[4]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[10]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-14"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[3]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[10]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[8]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[11]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[7]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[6]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="three-post__inner_1-0"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver //nav[@id='header-nav_1-0']/div/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="three-post__inner_1-0"]/a[2]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[6]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-14"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[10]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-5"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[3]/p'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0"]/a[7]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[1]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[3]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[10]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[1]'};
+-------------
+, MouseOver //div[@id="tax-sc__recirc-list_1-0-1"]/a[10]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[5]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[4]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[7]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[1]'};
+Click //div[@id="three-post__inner_1-0"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="card-list_2-0"]/a[1]/div[2]/span'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[2]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-6"]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[6]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[3]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[3]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[10]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[1]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[4]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[11]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[5]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[5]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[6]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-1"]/a[12]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[6]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[2]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[8]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[6]/div[2]/span'};
+Click //div[@id="recipe__steps-content_1-0"]/ol/li[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[3]'};
+Click //div[@id="tax-sc__recirc-list_1-0"]/a[11]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[1]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[4]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[9]/div[2]/span'};
+Click //div[@id="mntl-recipe-intro__content_1-0"]/p[11]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[2]'};
+Click /html/body/header/nav/div[1]/ul/li[2]/ul/li[5]'};
+Click //div[@id="tax-sc__recirc-list_1-0-2"]/a[4]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[5]'};
+Click /html/body/header/nav/div[1]/ul/li[5]/ul/li[4]'};
+Click //div[@id="tax-sc__recirc-list_1-0-4"]/a[8]/div[2]/span'};
+Click //main[@id="main"]/article/div[2]/p'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[7]'};
+Click /html/body/header/nav/div[1]/ul/li[4]/ul/li[2]'};
+-------------
+, MouseOver /html/body/header/nav/div[1]/ul/li[8]'};
+Click /html/body/header/nav/div[1]/ul/li[8]/ul/li[1]'};
+Click //div[@id="tax-sc__recirc-list_1-0-3"]/a[2]/div[2]/span'};
+Click //div[@id="list-sc-item_1-0-4"]/p'};
+-------------
+]

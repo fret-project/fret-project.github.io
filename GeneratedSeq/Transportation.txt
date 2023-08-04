@@ -1,0 +1,389 @@
+[MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[4]/ol/li[3]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[4]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[3]/ol/li[6]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[3]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[3]/li[2]/a'};
+-------------
+, MouseOver //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[6]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[3]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[1]/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[3]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[1]/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[2]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[2]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[1]/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[3]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[2]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[5]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[2]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[5]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[2]/li[5]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[3]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[1]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[2]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[8]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[4]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[1]/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[1]/li[6]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[5]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[1]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[5]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[4]/ol/li[3]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[5]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[6]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[4]/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[6]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[3]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[2]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[1]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[3]/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[1]/li[7]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[5]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[2]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[1]/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[3]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[2]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[7]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[2]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[2]/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[6]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[6]/div/ul[2]/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[1]/li/ol/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[8]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[5]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[3]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[1]/a'};
+-------------
+, MouseOver //a[@id="mail-ship-width"]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[2]/div/ul[1]/li[4]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[5]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[5]/div/ul[3]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[1]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[3]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[4]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[4]/div/ul[2]/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol[2]/li[2]/ol/li[2]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[7]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[7]/div/ul/li[1]/a'};
+Click //div[@id="global-footer--wrap"]/footer/nav/ol/li[3]/ol/li[1]/a'};
+-------------
+, MouseOver //div[@id='g-navigation']/div/nav/ul/li[3]/a[2]'};
+Click //div[@id='g-navigation']/div/nav/ul/li[3]/div/ul/li[3]/a'};
+-------------
+, MouseOver //div[@id="g-navigation"]/div/nav/ul/li[3]/a[2]'};
+Click //div[@id="g-navigation"]/div/nav/ul/li[3]/div/ul[1]/li[4]/a'};
+-------------
+]

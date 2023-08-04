@@ -1,0 +1,944 @@
+[Click //div[9]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[4]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[2]/ul/li[1]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[3]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[2]/a/strong};
+Click //div[1]/ul/li[1]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[5]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[3]/b[2]/a};
+Click //div/ul/li[2]/a/div};
+-------------
+, Click //div[9]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[5]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[3]/ul/li[4]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[1]/ul/li[5]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[10]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+-------------
+, Click //div[4]/a/strong};
+Click //div[4]/ul/li[3]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[3]/a/strong};
+Click //div[2]/ul/li[2]/b[2]/a};
+Click //div/ul/li[6]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[4]/ul/li[1]/b[2]/a};
+Click //div/ul/li[3]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[6]/a/strong};
+Click //div[3]/ul/li[3]/b[2]/a};
+Click //div/ul/li[4]/a/div};
+-------------
+, Click //div[8]/a/strong};
+Click //div[1]/ul/li[2]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[1]/a/strong};
+Click //div[4]/ul/li[2]/b[2]/a};
+Click //div/ul/li[7]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[2]/ul/li[4]/b[2]/a};
+Click //div/ul/li[1]/a/div};
+-------------
+, Click //div[7]/a/strong};
+Click //div[1]/ul/li[6]/b[2]/a};
+Click //div/ul/li[5]/a/div};
+]
