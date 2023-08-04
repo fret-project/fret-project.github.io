@@ -1,0 +1,84 @@
+{
+  "id": "f88f5b4b-5ac7-4259-bdb9-38a8e231bf27",
+  "version": "2.0",
+  "name": "bahn",
+  "url": "https://next.bahn.de",
+  "tests": [{
+    "id": "a6b9f31b-eaa8-443c-a97f-c16b04bc103f",
+    "name": "1",
+    "commands": [{
+      "id": "d45e860f-af63-4685-9087-2c2c16a567b0",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a0108fa7-b740-44a2-ae06-bee5b01faf1f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x812",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c31e6436-378e-4633-ab8f-fa29260ccd4a",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//header[@id='db-main-navigation']/nav/ul/li[2]/a/span",
+      "targets": [
+        ["css=.nav__main > .nav__item:nth-child(2) > .nav__link > span", "css:finder"],
+        ["xpath=//header[@id='db-main-navigation']/nav/ul/li[2]/a/span", "xpath:idRelative"],
+        ["xpath=//header/nav/ul/li[2]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Info & Services')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "25afd2ea-e22f-4957-b27d-6947490db18c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//header[@id='db-main-navigation']/nav/ul/li[2]/ul/li[2]/ul/li/a/span",
+      "targets": [
+        ["css=.nav__item:nth-child(2) .nav__cluster:nth-child(2) .nav__item--clustered:nth-child(1) span", "css:finder"],
+        ["xpath=//header[@id='db-main-navigation']/nav/ul/li[2]/ul/li[2]/ul/li/a/span", "xpath:idRelative"],
+        ["xpath=//li[2]/ul/li[2]/ul/li/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Digitales Ticket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4a2d8cc-3055-44b0-a7b8-59f61b2549e2",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//main[@id='content']/div[2]/ul/li[2]/a",
+      "targets": [
+        ["css=li:nth-child(2) > .js-anchor-link", "css:finder"],
+        ["xpath=//main[@id='content']/div[2]/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#faq')]", "xpath:href"],
+        ["xpath=//div[2]/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "94b0a9b9-bc92-4684-8e61-8e4905f8ff1f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//main[@id='content']/div[8]/div/div[5]/h3/button",
+      "targets": [
+        ["css=.accordion__accordion-element:nth-child(5) #btn-content_03", "css:finder"],
+        ["xpath=(//button[@id='btn-content_03'])[5]", "xpath:attributes"],
+        ["xpath=//main[@id='content']/div[8]/div/div[5]/h3/button", "xpath:idRelative"],
+        ["xpath=//div[5]/h3/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wie komme ich an mein Digitales Ticket?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "a5c42f59-e928-48cb-9fcd-40c768a29dfc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a6b9f31b-eaa8-443c-a97f-c16b04bc103f"]
+  }],
+  "urls": ["https://www.bahn.de/"],
+  "plugins": []
+}

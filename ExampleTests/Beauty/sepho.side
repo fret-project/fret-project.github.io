@@ -1,0 +1,72 @@
+{
+  "id": "4ffedf80-e7ab-4140-bda4-ce3e7a434a28",
+  "version": "2.0",
+  "name": "sepho",
+  "url": "https://www.sephora.com",
+  "tests": [{
+    "id": "0a916c42-0e17-4a11-baaa-44259e94d748",
+    "name": "Untitled",
+    "commands": [{
+      "id": "a2d0218f-6033-4b02-bbd5-597f48615502",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "29e1b8e6-600a-4218-817e-ea8203111c9c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x812",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "042864ae-cd73-4db5-bf97-14b300acb44c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//a[@id='top_nav_drop_5_trigger']",
+      "targets": [
+        ["id=top_nav_drop_5_trigger", "id"],
+        ["linkText=Fragrance", "linkText"],
+        ["css=#top_nav_drop_5_trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Fragrance')]", "xpath:link"],
+        ["xpath=//a[@id='top_nav_drop_5_trigger']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, '/shop/fragrance')]", "xpath:href"],
+        ["xpath=//div[6]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Fragrance')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "964b55ea-cbcc-40d7-8848-739f4863f12d",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id="top_nav_drop_5"]/div/div/div[4]/ul[1]/li[1]/a",
+      "targets": [
+        ["css=.css-9qioup", "css:finder"],
+        ["xpath=//div[@id="top_nav_drop_3"]/div/div/div[4]/ul[1]/li[1]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d874a36f-aef3-4cc0-86d0-188265742683",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//img[@alt='VOLUSPA - Barbados Grapefruit Jar Candle']",
+      "targets": [
+        ["css=.css-foh208:nth-child(2) .css-1rovmyu", "css:finder"],
+        ["xpath=//img[@alt='VOLUSPA - Barbados Grapefruit Jar Candle']", "xpath:img"],
+        ["xpath=//div[2]/a/div/div/picture/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8cfb3cf6-b47c-4221-ae7b-9ccf4df035fd",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["0a916c42-0e17-4a11-baaa-44259e94d748"]
+  }],
+  "urls": ["https://www.sephora.com/"],
+  "plugins": []
+}

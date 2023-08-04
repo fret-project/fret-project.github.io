@@ -1,0 +1,64 @@
+{
+  "id": "cc3dd8f8-cd04-49fd-9ef6-bdf889a4eb6a",
+  "version": "2.0",
+  "name": "mayo",
+  "url": "https://www.mayoclinic.org",
+  "tests": [{
+    "id": "ccfbe869-168a-4a6f-84f5-4fe0617a2711",
+    "name": "Untitled",
+    "commands": [{
+      "id": "75f6023f-00f1-408f-a2fb-94e64ef186f8",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e9bffd04-e06d-4989-9a77-79dbb1442278",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x812",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9ab0c202-90af-4fc2-a4b6-fd55d35cf630",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='header__content-inner-container']/div/ul/li[2]/div/div/button/span/span",
+      "targets": [
+        ["css=.cmp-tab:nth-child(2) .cmp-tab__button-title", "css:finder"],
+        ["xpath=//div[@id='header__content-inner-container']/div/ul/li[2]/div/div/button/span/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div/div/button/span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3b35b4dd-5d93-476b-af64-b4dad0810f97",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@id='button-1d1906da21']/span/span/span/span",
+      "targets": [
+        ["css=#button-1d1906da21 .cmp-button__text", "css:finder"],
+        ["xpath=//a[@id='button-1d1906da21']/span/span/span/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/a/span/span/span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f4fd6331-0f9b-4993-892e-41b5454db587",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,961)",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "54e1a8a9-3a15-44d9-bbef-f918c549cd0c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ccfbe869-168a-4a6f-84f5-4fe0617a2711"]
+  }],
+  "urls": ["https://www.mayoclinic.org/"],
+  "plugins": []
+}

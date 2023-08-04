@@ -1,0 +1,92 @@
+{
+  "id": "931c641c-5a6c-49f1-aae5-3d882ac57b13",
+  "version": "2.0",
+  "name": "2click",
+  "url": "https://marketingplatform.google.com",
+  "tests": [{
+    "id": "4ca244d8-fdd8-476f-b86d-176f87b34364",
+    "name": "Untitled",
+    "commands": [{
+      "id": "70201aee-ad99-41db-89e4-acfdeb4b9229",
+      "comment": "",
+      "command": "open",
+      "target": "/about/enterprise/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2f6c9051-09a5-45ef-8d2e-0e6932165835",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1420x794",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d246ec46-82db-4fbc-bc5e-e6c05c11fcf5",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//li[2]/a",
+      "targets": [
+        ["linkText=For Enterprises", "linkText"],
+        ["css=.h-c-header__nav-li > .h-is-active", "css:finder"],
+        ["xpath=//a[contains(text(),'For Enterprises')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/about/enterprise/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'For Enterprises')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cff5f04c-e2b3-4874-86a2-c275e8692b04",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[2]/ul/li[2]/a/p",
+      "targets": [
+        ["css=.dd-menu__nav-list-ctr:nth-child(2) .dd-menu__nav-item:nth-child(2) .dd-menu__nav-item__desc", "css:finder"],
+        ["xpath=//div[2]/ul/li[2]/a/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Reach today’s always-connected audiences wherever they are.')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6de90f25-6e9d-4556-bf70-aa329cdea51c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//nav[2]/ul/li[2]/a",
+      "targets": [
+        ["linkText=Benefits", "linkText"],
+        ["css=.gmp-product-nav .h-c-header__nav-li:nth-child(2) > .h-c-header__nav-li-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Benefits')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/about/display-video-360/benefits/')]", "xpath:href"],
+        ["xpath=//nav[2]/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Benefits')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f59dfaec-7545-40fd-a577-e9783c8adcc0",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[3]/div/ul/li[2]/a",
+      "targets": [
+        ["linkText=Analytics for developers", "linkText"],
+        ["css=#column-3 .h-c-footer__site-links-list-item:nth-child(2) > .h-c-footer__link", "css:finder"],
+        ["xpath=//a[contains(text(),'Analytics for developers')]", "xpath:link"],
+        ["xpath=//div[@id='column-3']/div/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://developers.google.com/analytics/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fdisplay-video-360%2Fbenefits%2F')]", "xpath:href"],
+        ["xpath=//div[3]/div/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Analytics for developers')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win7471",
+      "windowTimeout": 2000
+    }]
+  }],
+  "suites": [{
+    "id": "c4a9fa28-bda4-4589-9032-4b7cfd5a3659",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4ca244d8-fdd8-476f-b86d-176f87b34364"]
+  }],
+  "urls": ["https://marketingplatform.google.com/"],
+  "plugins": []
+}

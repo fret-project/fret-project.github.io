@@ -1,0 +1,73 @@
+{
+  "id": "86a93fd4-04a3-4335-996b-9f3f335b709b",
+  "version": "2.0",
+  "name": "nih2",
+  "url": "https://www.nih.gov",
+  "tests": [{
+    "id": "5ccfb07f-ab93-4326-9062-4fb1bc55c0f4",
+    "name": "1",
+    "commands": [{
+      "id": "2b79cc4c-f841-4a1a-97c9-b605a791c01f",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0015df06-17f7-4d73-986f-68fe86319ffe",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1420x794",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "29e46248-f383-43f0-93cd-bc3b7663f45c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "xpath=//li[3]/div/a/span",
+      "targets": [
+        ["css=.tab-wrapper-grants > .tab > a > span", "css:finder"],
+        ["xpath=//li[3]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Grants & Funding')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fa586671-0f50-4e20-9d00-a25a99d2e68c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//li[3]/div[2]/div/ul/li[6]/a",
+      "targets": [
+        ["linkText=Policy & Compliance", "linkText"],
+        ["css=.tab-wrapper-grants li:nth-child(6) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Policy & Compliance')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'https://grants.nih.gov/policy/index.htm')]", "xpath:href"],
+        ["xpath=//li[3]/div[2]/div/ul/li[6]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Policy & Compliance')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b9783e20-b338-401f-8f8a-609566b15c0a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[@id='block-grants-grants2019-system-main']/div/article/div/div/div/div[2]/h2/strong/a",
+      "targets": [
+        ["css=.section1text a", "css:finder"],
+        ["xpath=(//a[contains(text(),'NIH Grants Policy Statement')])[3]", "xpath:link"],
+        ["xpath=//div[@id='block-grants-grants2019-system-main']/div/article/div/div/div/div[2]/h2/strong/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://grants.nih.gov/policy/nihgps/index.htm')])[4]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "f6baa00c-a883-4a9b-90b8-d2119c3b11fd",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5ccfb07f-ab93-4326-9062-4fb1bc55c0f4"]
+  }],
+  "urls": ["https://www.nih.gov/"],
+  "plugins": []
+}
