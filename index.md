@@ -1,6 +1,8 @@
 
 # Fret Experiment Data
 
+## Due to intellectual property reasons, the code or program of this work cannot be open-sourced.
+
 ## Target Websites
 
 | Web app type          | Web name                      | URL                        |
