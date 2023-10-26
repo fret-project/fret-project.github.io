@@ -271,6 +271,43 @@ Coloring sequencer generated sequences example are in [GeneratedSeq](https://git
 |        Vehicles        |           4           |      190      | 143  | 205  | 190  | 172  | 222  |
 |        Wellness        |           3           |      79       |  41  |  79  |  79  |  79  |  79  |
 
+## Similar Element Coverage
+
+|web app type	| covered element number 	|detected similar<br>element number	|similar element coverage|
+|:---------------------:|:---------:|:-------------:|:--:|
+| Accommodation|156|287|54.36%|
+| Advertising|413|637|64.84%|
+| Airlines|135|223|60.54%|
+| Banking|128|191|67.02%|
+| Beauty|247|439|56.26%|
+| Computer software|218|347|62.82%|
+| Distance learning|143|185|77.3%|
+| E-commerce|91|141|64.54%|
+| Eduction|234|397|58.94%|
+| Entertainment|396|539|73.47%|
+| Fashion|218|420|51.9%|
+| Finance|225|414|54.35%|
+| Food and Beverages|362|491|73.73%|
+| Games|88|181|48.62%|
+| Health|127|127|100|
+| Information technology|26|37|70.27%|
+| Insurance|341|561|60.78%|
+| Investment|57|115|49.57%|
+| Jobs|199|254|78.35%|
+| Market research|188|302|62.25%|
+| Music|119|205|58.05%|
+| News and Media|256|426|60.09%|
+| Online services|121|225|53.78%|
+| Real estate|232|391|59.34%|
+| Restaurants|231|322|71.74%|
+| Science|68|68|100|
+| Sports|176|392|44.9%|
+| Telecom|148|327|45.26%|
+| Transportation|148|162|91.36%|
+| Travel and Tourism|208|250|83.2%|
+| Vehicles|190|298|63.76%|
+| Wellness|79|79|10|
+
 ## False Positive Example
 False positive Examples are in [FalsePositiveExample](https://github.com/fret-project/fret-project.github.io/tree/master/FalsePositiveExample)
 
