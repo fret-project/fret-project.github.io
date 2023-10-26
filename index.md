@@ -317,5 +317,7 @@ False positive Examples are in [FalsePositiveExample](https://github.com/fret-pr
 ## Example Video of Fuzzy Replay
 Here is an example video of Fuzzy Replay:
 [Fuzzy Replay Example](https://github.com/fret-project/fret-project.github.io/blob/master/FuzzyReplayExample1.mov)
-
+<video controls>
+  <source src="FuzzyReplayExample1.mov" type="video/quicktime">
+</video>
 
