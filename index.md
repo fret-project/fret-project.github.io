@@ -308,6 +308,9 @@ Coloring sequencer generated sequences example are in [GeneratedSeq](https://git
 | Vehicles|190|298|63.76%|
 | Wellness|79|79|10|
 
+## Error 
+Errors found by each strategy are in [ErrorList](https://github.com/fret-project/fret-project.github.io/tree/master/ErrorList)
+
 ## False Positive Example
 False positive Examples are in [FalsePositiveExample](https://github.com/fret-project/fret-project.github.io/tree/master/FalsePositiveExample)
 
