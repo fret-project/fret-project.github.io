@@ -273,40 +273,40 @@ Coloring sequencer generated sequences example are in [GeneratedSeq](https://git
 
 ## Similar Element Coverage
 
-|web app type	| covered element number 	|detected similar<br>element number	|similar element coverage|
-|:---------------------:|:---------:|:-------------:|:--:|
-| Accommodation|156|287|54.36%|
-| Advertising|413|637|64.84%|
-| Airlines|135|223|60.54%|
-| Banking|128|191|67.02%|
-| Beauty|247|439|56.26%|
-| Computer software|218|347|62.82%|
-| Distance learning|143|185|77.3%|
-| E-commerce|91|141|64.54%|
-| Eduction|234|397|58.94%|
-| Entertainment|396|539|73.47%|
-| Fashion|218|420|51.9%|
-| Finance|225|414|54.35%|
-| Food and Beverages|362|491|73.73%|
-| Games|88|181|48.62%|
-| Health|127|127|100|
-| Information technology|26|37|70.27%|
-| Insurance|341|561|60.78%|
-| Investment|57|115|49.57%|
-| Jobs|199|254|78.35%|
-| Market research|188|302|62.25%|
-| Music|119|205|58.05%|
-| News and Media|256|426|60.09%|
-| Online services|121|225|53.78%|
-| Real estate|232|391|59.34%|
-| Restaurants|231|322|71.74%|
-| Science|68|68|100|
-| Sports|176|392|44.9%|
-| Telecom|148|327|45.26%|
-| Transportation|148|162|91.36%|
-| Travel and Tourism|208|250|83.2%|
-| Vehicles|190|298|63.76%|
-| Wellness|79|79|10|
+|web app type	|detected similar element number |coloring covered element number	| coloring similar element coverage|random covered element number|random similar element coverage|
+|:---------------------:|:---------:|:-------------:|:----:|:--------:|:--------:|
+| Accommodation|287|156|54.36%|159|55.4%|
+| Advertising|637|413|64.84%|335|52.59%|
+| Airlines|223|135|60.54%|118|52.91%|
+| Banking|191|128|67.02%|107|56.02%|
+| Beauty|439|247|56.26%|244|55.58%|
+| Computer software|347|218|62.82%|198|57.06%|
+| Distance learning|185|143|77.3%|112|60.54%|
+| E-commerce|141|91|64.54%|64|45.39%|
+| Eduction|397|234|58.94%|178|44.84%|
+| Entertainment|539|396|73.47%|327|60.67%|
+| Fashion|420|218|51.9%|215|51.19%|
+| Finance|414|225|54.35%|215|51.93%|
+| Food and Beverages|491|362|73.73%|296|60.29%|
+| Games|181|88|48.62%|93|51.38%|
+| Health|127|127|100%|88|69.29%|
+| Information technology|37|26|70.27%|19|51.35%|
+| Insurance|561|341|60.78%|317|56.51%|
+| Investment|115|57|49.57%|52|45.22%|
+| Jobs|254|199|78.35%|173|68.11%|
+| Market research|302|188|62.25%|179|59.27%|
+| Music|205|119|58.05%|105|51.22%|
+| News and Media|426|256|60.09%|254|59.62%|
+| Online services|225|121|53.78%|104|46.22%|
+| Real estate|391|232|59.34%|225|57.54%|
+| Restaurants|322|231|71.74%|195|60.56%|
+| Science|68|68|100%|57|83.82%|
+| Sports|392|176|44.9%|176|44.9%|
+| Telecom|327|148|45.26%|140|42.81%|
+| Transportation|162|148|91.36%|143|88.27%|
+| Travel and Tourism|250|208|83.2%|183|73.2%|
+| Vehicles|298|190|63.76%|175|58.72%|
+| Wellness|79|79|100%|65|82.2%|
 
 ## Error 
 Errors found by each strategy are in [ErrorList](https://github.com/fret-project/fret-project.github.io/tree/master/ErrorList)
