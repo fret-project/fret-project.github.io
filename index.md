@@ -2,6 +2,18 @@
 # Fret Experiment Data
 
 ## Due to intellectual property reasons, the code or program of this work cannot be open-sourced.
+## Example Video of Fuzzy Replay
+Here is an example video of Fuzzy Replay:
+[Record example sequence by Selenium IDE](https://github.com/fret-project/fret-project.github.io/blob/master/example_record.mov)
+<video controls>
+  <source src="example_record.mov" type="video/quicktime">
+</video>
+
+[Fuzzy replay](https://github.com/fret-project/fret-project.github.io/blob/master/fuzzy_replay.mov)
+<video controls>
+  <source src="fuzzy_replay.mov" type="video/quicktime">
+</video>
+
 
 ## Target Websites
 
@@ -314,10 +326,4 @@ Errors found by each strategy are in [ErrorList](https://github.com/fret-project
 ## False Positive Example
 False positive Examples are in [FalsePositiveExample](https://github.com/fret-project/fret-project.github.io/tree/master/FalsePositiveExample)
 
-## Example Video of Fuzzy Replay
-Here is an example video of Fuzzy Replay:
-[Fuzzy Replay Example](https://github.com/fret-project/fret-project.github.io/blob/master/FuzzyReplayExample1.mov)
-<video controls>
-  <source src="FuzzyReplayExample1.mov" type="video/quicktime">
-</video>
 
